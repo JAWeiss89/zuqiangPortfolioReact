@@ -11,7 +11,7 @@ function App() {
   const films = ['Inauguration', 'Nan', 'Spanish Vignettes', 'Accordion Class', 'I dont remember the name'];
 
   return (
-    <div className="App">
+    <div className="App" id="container">
       < BrowserRouter>
         < Nav />
         < NavMobile />
