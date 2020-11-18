@@ -4,11 +4,10 @@ import Nav from './Nav';
 import NavMobile from './NavMobile';
 import Routes from './Routes';
 import './App.css';
-
+import films from './db/films.json';
 
 
 function App() {
-  const films = ['Inauguration', 'Nan', 'Spanish Vignettes', 'Accordion Class', 'I dont remember the name'];
 
   return (
     <div className="App" id="container">
