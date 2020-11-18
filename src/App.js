@@ -8,7 +8,7 @@ import './App.css';
 
 
 function App() {
-  const films = ['Inauguration', 'Nan', 'Spanish Vignettes', 'Accordion Class'];
+  const films = ['Inauguration', 'Nan', 'Spanish Vignettes', 'Accordion Class', 'I dont remember the name'];
 
   return (
     <div className="App">
