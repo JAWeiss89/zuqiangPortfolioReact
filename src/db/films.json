@@ -6,17 +6,27 @@
         "images": ["./images/inauguration2.jpg", "./images/inauguration3.jpg"],
         "specs":"2020/ 13:32 / Super 8mm & HD",
         "details":"English/ United States, Cuba / Colour and B&W",
-        "summary": "What does it mean to look back on a failed assassination? Why does one decide to forget a radical past? Inauguration looks at the fragmented history of the Young China Association (少年学社). Interweaving temporal connections with faint chances of synchronous events between two disparate events at the margins of Chinese revolutionary history: a failed assassination and an impossible trip. The film narrates a forecast of the past, wherein it renders visible the processes of erasure, remembrance, and archival anchors of the early overseas Chinese revolutionary politics and its aftermaths.",
+        "summaryparagraphs": [
+            "What does it mean to look back on a failed assassination? Why does one decide to forget a radical past? Inauguration looks at the fragmented history of the Young China Association (少年学社). Interweaving temporal connections with faint chances of synchronous events between two disparate events at the margins of Chinese revolutionary history: a failed assassination and an impossible trip. The film narrates a forecast of the past, wherein it renders visible the processes of erasure, remembrance, and archival anchors of the early overseas Chinese revolutionary politics and its aftermaths.",
+            "-",
+            "The underground revolutionary group, Young China Association, was established in 1905 by the Chinese and Chinese Americans in the United States to promote the Chinese Revolution which later overthrew the last feudalist dynasty of Qing and proceeded with the establishment of the Republic of China.",
+            "Through a series of anachronistic travels and narratives between Texas, California, and Havana, the film offers an assemblage of two disparate events at the margins of Chinese revolutionary history: The forgotten story of an unsuccessful assassination attempt in 1910 by George Fong, a member of the Young China Association, who aimed to eliminate a royal prince of the Qing Empire while he was traveling in the United States. The film intertwines this failed assassination with the story of two Chinese-Cuban activists who travelled to the United States for the Young China Association's inauguration one year prior in 1909. Movements, geographies, and events do not follow a linear arch but rather are scattered across memories and places, only to be treated as residues, witnesses or simply discards of the history. What happens when the premise of the story is, in fact, the assurance of its erasure?"
+        ],
         "videosrc":"https://player.vimeo.com/video/391327298"
     },
     {
         "id": "nan",
         "title":"难 / Nan",
-        "mainimage":"./images/nan5.jpg",
-        "images":["./images/nan1.jpg", "./images/nan2.jpg", "./images/nan3.jpg", "./images/nan4.jpg"],
+        "mainimage":"./images/nan3.jpg",
+        "images":["./images/nan1.jpg", "./images/nan2.jpg", "./images/nan3.jpg", "./images/nan4.jpg", "./images/nan5.jpg"],
         "specs":"2019 / 79:31/ HD video",
         "details":"Hunan Dialect / China / Color",
-        "summary": "Nan, my uncle, lives with his parents in a first-floor apartment in the southern Chinese city, Changsha. The apartment is in perpetual tension with talks of life and death, questions of belonging, and a good dose of humor. Lingering over everyday life, the film acquires a durational feel—things happen patiently, even as at times ‘nothing’ seems to. It is a meditation on time, aging, and the economies of care in contemporary China.",
+        "summaryparagraphs": [
+            "A portrait that follows Nan, my uncle who lives with his elderly parents, during the last two years that the three share the same house together. In long, tightly framed shots, a picture emerges of three intimately interwoven lives: the gentle and touching bickering between Nan and his mother, the evenings in front of the television when time seems to stand still, and the minutes ticking by as Grandpa silently peels an apple. It is a meditation on time, disabilities, and the economies of care. A warm and at times humorous ode to informal caregiving and the strength of family ties.",
+            "-",
+            " 'Zuqiang's film is neither long nor slow. It simply unfolds at the pace with which Nan and his parents move through the world—the rhythms to which anyone who is invited into their world would be asked to synchronize. Several scenes in the film follow Nan’s actions, sending our restless bodies out of sync. We learn about disability not only as symptoms in a body, but as social relationships—physical and temporal relationships that we too become implicated in. More than discerning narratives or plots, the work that the audience does in these scenes is about syncing with other(’s) rhythms. These are acts of love. The process is imperfect. ' - Sindhu Thirumalaisamy"
+            
+        ],
         "reviews": "Zuqiang's film is neither long nor slow. It simply unfolds at the pace with which Nan and his parents move through the world—the rhythms to which anyone who is invited into their world would be asked to synchronize. Several scenes in the film follow Nan’s actions, sending our restless bodies out of sync. We learn about disability not only as symptoms in a body, but as social relationships—physical and temporal relationships that we too become implicated in. More than discerning narratives or plots, the work that the audience does in these scenes is about syncing with other(’s) rhythms. These are acts of love. The process is imperfect.  -  Sindhu Thirumalaisamy",
         "videosrc":"https://player.vimeo.com/video/205996048"
     },
@@ -26,7 +36,9 @@
         "mainimage":"./images/remember5.jpg",
         "images":["./images/remember1.jpg","./images/remember2.jpg","./images/remember3.jpg","./images/remember4.jpg"],
         "specs":"2018 / 11:03 / two-channel HD video",
-        "summary":"Cuba once had the largest Chinese community in Latin America. In 1847, the first group of five hundred Chinese workers arrived in Cuba as indentured workers. Through juxtapositions of the now-disappearing Chinese migrant worker community in Havana and the expanding investments in Cuba made by China, the film observes the visible and invisible traces of Chinese capitals in a Chinese nursing home, a Wifi park, a bio-power plant and sugarcane fields, punctuated by archival petitions from the Chinese 'coolies' in the late 19th century.",
+        "summaryparagraphs": [
+            "Cuba once had the largest Chinese community in Latin America. In 1847, the first group of five hundred Chinese workers arrived in Cuba as indentured workers. Through juxtapositions of the now-disappearing Chinese migrant worker community in Havana and the expanding investments in Cuba made by China, the film observes the visible and invisible traces of Chinese capitals in a Chinese nursing home, a Wifi park, a bio-power plant and sugarcane fields, punctuated by archival petitions from the Chinese 'coolies' in the late 19th century."
+        ],
         "videosrc":"https://player.vimeo.com/video/266760552"
     },
     {
@@ -35,7 +47,7 @@
         "mainimage":"./images/accordion1.png",
         "images":["./images/accordion2.jpg"],
         "specs":"2016 / 14:49' /  HD video",
-        "summary":"During the Cultural Revolution, the accordion was the only permitted western instrument. With its rhythmic and performative quality, the accordion was favored as an instrument of propaganda. In the ’90s, when the piano and other instruments regained popularity, the accordion became less influential than it had been. However, the instrument is having a revival in the 2010s. The film looks at two accordion classes taught in Changsha, China: One for the primary school kids from mostly working-class families, as part of their school curriculum. The other for a group of middle-aged men and women that meet weekly at their leisure.",
+        "summaryparagraphs": ["During the Cultural Revolution, the accordion was the only permitted western instrument. With its rhythmic and performative quality, the accordion was favored as an instrument of propaganda. In the ’90s, when the piano and other instruments regained popularity, the accordion became less influential than it had been. However, the instrument is having a revival in the 2010s. The film looks at two accordion classes taught in Changsha, China: One for the primary school kids from mostly working-class families, as part of their school curriculum. The other for a group of middle-aged men and women that meet weekly at their leisure."],
         "videosrc":"https://player.vimeo.com/video/173978257"
     },
     {
@@ -44,7 +56,7 @@
         "mainimage":"./images/spanish1.jpg",
         "images":[],
         "specs":"2015 / 13:21 / HD video",
-        "summary":"Shot during a short residence in Sierra Nevada in Southern Spain, the video documents the artist's short stay in the Spanish mountains, as he narrates the published diary of Chi Chang - a young Chinese man who joined the International Brigade in Southern Spain, after his education in the United States in the 30s. The video blends personal observation of the natural landscape of Sierra Nevada, with the history of Chinese presence in Spain. Two styles of shots relate to the storylines of the two characters: Chi Chang and the artist himself, on two different observations, journeys and forms of collectivity in Spain 80 years apart.",
+        "summaryparagraphs": ["Shot during a short residence in Sierra Nevada in Southern Spain, the video documents the artist's short stay in the Spanish mountains, as he narrates the published diary of Chi Chang - a young Chinese man who joined the International Brigade in Southern Spain, after his education in the United States in the 30s. The video blends personal observation of the natural landscape of Sierra Nevada, with the history of Chinese presence in Spain. Two styles of shots relate to the storylines of the two characters: Chi Chang and the artist himself, on two different observations, journeys and forms of collectivity in Spain 80 years apart."],
         "videosrc":"https://player.vimeo.com/video/121446375"
     },
     {
@@ -53,7 +65,7 @@
         "mainimage":"./images/surface1.jpg",
         "images":[],
         "specs":"2014 / 10:00 / HD video",
-        "summary":"Surface Value explores the vision and reality of urban color management in the city of Changsha.The performative voice-over speculates on existing policies of color management, while reflecting the artist's own attempts on ‘capturing colors’ in the city: How does the citizen interact with the colors of urbanisms, and where lies the logic of such urban color control? The film questioned if the so-called management of urban color is possibly only a wishful thinking from the ones in power.",
+        "summaryparagraphs": ["Surface Value explores the vision and reality of urban color management in the city of Changsha.The performative voice-over speculates on existing policies of color management, while reflecting the artist's own attempts on ‘capturing colors’ in the city: How does the citizen interact with the colors of urbanisms, and where lies the logic of such urban color control? The film questioned if the so-called management of urban color is possibly only a wishful thinking from the ones in power."],
         "videosrc":"https://player.vimeo.com/video/113260440"
     },
     {
@@ -62,6 +74,6 @@
         "mainimage":"./images/house1.jpg",
         "images":["./images/house2.jpg","./images/house3.jpg"],
         "specs":"2014 / 13:04 /SD video",
-        "summary":"The House is a short documentary exploring stories of housing demolition in Changsha, China. The film takes as its starting point a house that belongs to an artist's family that is slated for demolition. Through interviews and encounters with various residents and evictees, the film attempts to address the different relationships between how agencies operate within a demolition site."
+        "summaryparagraphs": ["The House is a short documentary exploring stories of housing demolition in Changsha, China. The film takes as its starting point a house that belongs to an artist's family that is slated for demolition. Through interviews and encounters with various residents and evictees, the film attempts to address the different relationships between how agencies operate within a demolition site."]
     }
 ]
