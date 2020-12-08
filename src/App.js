@@ -1,6 +1,5 @@
 import React from 'react';
-// import  { BrowserRouter } from 'react-router-dom';
-import { HashRouter } from 'react-router-dom';
+import  { BrowserRouter } from 'react-router-dom';
 import Nav from './Nav';
 import NavMobile from './NavMobile';
 import Routes from './Routes';
@@ -12,13 +11,11 @@ function App() {
 
   return (
     <div id="container">
-      {/* < BrowserRouter> */}
-      < HashRouter >
+      < BrowserRouter basename={process.env.PUBLIC_URL}>
         < Nav />
         < NavMobile />
         < Routes films={films}/>
-      </HashRouter>
-      {/* </BrowserRouter> */}
+      </BrowserRouter>
     </div>
   );
 }
