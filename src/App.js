@@ -10,7 +10,7 @@ import films from './db/films.json';
 function App() {
 
   return (
-    <div className="App" id="container">
+    <div id="container">
       < BrowserRouter>
         < Nav />
         < NavMobile />

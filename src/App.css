@@ -68,7 +68,7 @@ header {
   margin: 0 0 10px;
 }
 
-#title {
+.title {
   margin: 0 0 20px;
   font-weight: 300;
 }
@@ -79,6 +79,10 @@ iframe {
 }
 
 .current-page {
+  color: rgb(102, 114, 180);
+}
+
+.active {
   color: rgb(102, 114, 180);
 }
 

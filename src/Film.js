@@ -7,7 +7,7 @@ const Film = ( {films} ) => {
     const film = films.find(item => item.id === filmID)
     return (
         <section id="content">
-            <h1>{film.title}</h1>
+            <h1 className="title">{film.title}</h1>
             <img className="main-img" src={film.mainimage} alt={film.title}/>
             <p id="specs">{film.specs}</p>
             <p id="details">{film.details}</p>

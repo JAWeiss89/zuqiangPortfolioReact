@@ -1,11 +1,10 @@
 import React from 'react';
-import info from './images/info.jpg';
 
 const Info = () => {
     return  (   
         <section id="content">
             <h1 id="title" class="hidden">info</h1>
-            <img class="main-img" src={info} />
+            <img class="main-img" src="./images/info.jpg" />
             <p>zuqiangpeng@gmail.com | <a target="_blank" href="https://docs.google.com/document/d/1lmyM9UjpoS4ztlFPKtjNQ9ciHQHyG9pX--Q7KzkBAc0/edit?usp=sharing"><span>CV</span></a></p>
             <p>-</p>
             <p>Peng Zuqiang makes moving images.</p>
