@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 
 
-const Film = ( {films} ) => {
+const Film = ( {films, hideNav} ) => {
     const {filmID} = useParams();
     const film = films.find(item => item.id === filmID)
     const [imageFeatured, setImageFeatured] = useState(film.mainimage);
@@ -16,7 +16,7 @@ const Film = ( {films} ) => {
     }, [filmID, film.mainimage])
 
     return (
-        <section id="content">
+        <section onClick={hideNav} id="content">
             <h1 className="title">{film.title}</h1>
             <img className="main-img" src={imageFeatured} alt={film.title}/>
             {film.images &&

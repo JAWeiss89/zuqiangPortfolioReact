@@ -1,12 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-// import './NavMobile.css';
 
-const NavMobile = () => {
+
+const NavMobile = ({navHidden, toggleNav}) => {
+    
+
+
     return (
         <div id="navbar-mobile" className="hidden">
-            <button id="nav-button-mobile"><i className="fas fa-film"></i></button>
-            <div id="films-mobile" className="hidden">
+            <button onClick={toggleNav} id="nav-button-mobile"><i className="fas fa-film"></i></button>
+            <div onClick={toggleNav} id="films-mobile" className={navHidden ? "hidden" : undefined}>
                 <Link to="/inauguration"><p>Inauguration</p></Link>
                 <Link to="/nan"><p>Nan</p></Link>
                 <Link to="/remember"><p>I Don't Remember The Name</p></Link>
@@ -15,7 +18,7 @@ const NavMobile = () => {
                 <Link to="/surfacevalue"><p>Surface Value</p></Link>
                 <Link to="/thehouse"><p>The House</p></Link>
             </div>
-            <div id="info-mobile" className="hidden">
+            <div onClick={toggleNav} id="info-mobile" className={navHidden ? "hidden" : undefined}>
                 <Link to="/info"><p>info</p></Link>
             </div>
         </div>

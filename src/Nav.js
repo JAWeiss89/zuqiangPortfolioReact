@@ -2,10 +2,10 @@ import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
 // import './Nav.css';
 
-const Nav = () => {
+const Nav = ({hideNav}) => {
     return (
         <header>
-            <div className="navbar">
+            <div onClick={hideNav} className="navbar">
                 < Link to="/">
                     <div id="my-name">
                     <h1>Peng Zuqiang</h1>

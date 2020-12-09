@@ -5,21 +5,19 @@ import Film from './Film';
 import Info from './Info';
 
 
-const Routes = ( { films } ) => {
+const Routes = ( { films, hideNav } ) => {
     return (
         <Switch>
             <Route exact path="/">
-                <Home />
+                <Home hideNav={hideNav}/>
             </Route>
             <Route exact path="/info">
-                <Info />
+                <Info hideNav={hideNav}/>
             </Route>
             <Route exact path="/:filmID">
-                <Film films={films} />
+                <Film hideNav={hideNav} films={films} />
             </Route>
-            <Route>
-                <Home />
-            </Route>
+
         </Switch>
     )
 }

@@ -2,9 +2,9 @@ import React from 'react';
 import {Link} from 'react-router-dom';
 // import landing from '/images/landing.jpg';
 
-const Home = () => {
+const Home = ({hideNav}) => {
     return (
-        <section id="content">
+        <section onClick={hideNav} id="content">
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
             <img className="main-img" src="./images/landing.jpg" alt="landing"/>
             <p><b>News :</b></p>
