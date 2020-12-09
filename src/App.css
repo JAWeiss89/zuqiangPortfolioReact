@@ -101,9 +101,8 @@ iframe {
 }
 
 .image-bar img {
-  height: 75%;
+  height: 100%;
   margin: 7px;
-
 }
 
 @media only screen and (max-width: 700px) {
@@ -161,5 +160,9 @@ iframe {
       margin: 15px 0 15px;
   }
 
+  .image-bar img {
+    height: 75%;
+    
+  }
 
 }
