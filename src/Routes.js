@@ -1,5 +1,5 @@
 import React from 'react';
-import { Switch, Route, Redirect } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import Home from './Home';
 import Film from './Film';
 import Info from './Info';
@@ -16,6 +16,9 @@ const Routes = ( { films } ) => {
             </Route>
             <Route exact path="/:filmID">
                 <Film films={films} />
+            </Route>
+            <Route>
+                <Home />
             </Route>
         </Switch>
     )

@@ -11,10 +11,10 @@ const Film = ( {films} ) => {
             <img className="main-img" src={film.mainimage} alt={film.title}/>
             <p id="specs">{film.specs}</p>
             <p id="details">{film.details}</p>
-            {film.summaryparagraphs.map((paragraph)=> <p>{paragraph}</p>)}
+            {film.summaryparagraphs.map((paragraph, i)=> <p key={i}>{paragraph}</p>)}
 
             {film.videosrc &&
-            <iframe src={film.videosrc} width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>            
+            <iframe src={film.videosrc} title={film.title} width="640" height="360" frameBorder="0" allow="autoplay; fullscreen" ></iframe>            
             }
 
         </section>

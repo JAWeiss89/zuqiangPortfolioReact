@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <section id="content">
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
-            <img className="main-img" src="./images/landing.jpg" />
+            <img className="main-img" src="./images/landing.jpg" alt="landing"/>
             <p><b>News :</b></p>
             <p>World Premier of <Link to="/nan"><em>Nan</em></Link> at <a href="https://www.idfa.nl/en/film/148171ce-6a64-4764-ad57-76b16f626d64/nan">First Appearance section, IDFA</a> , Nov.18 - Dec.6, 2020</p>
 

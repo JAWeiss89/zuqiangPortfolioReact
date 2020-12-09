@@ -11,7 +11,7 @@ function App() {
 
   return (
     <div id="container">
-      < BrowserRouter basename={process.env.PUBLIC_URL}>
+      < BrowserRouter >
         < Nav />
         < NavMobile />
         < Routes films={films}/>
