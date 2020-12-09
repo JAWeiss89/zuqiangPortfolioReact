@@ -90,6 +90,20 @@ iframe {
   display: none;
 }
 
+.image-bar {
+  height: 70px;
+  /* background-color: rgb(52, 52, 52); */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-bar img {
+  height: 80%;
+  margin: 7px;
+
+}
+
 @media only screen and (max-width: 700px) {
 
   #container {
@@ -144,4 +158,6 @@ iframe {
   #films-mobile p {
       margin: 15px 0 15px;
   }
+
+
 }
