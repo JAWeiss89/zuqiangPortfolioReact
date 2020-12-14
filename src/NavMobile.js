@@ -10,6 +10,7 @@ const NavMobile = ({navHidden, toggleNav}) => {
         <div id="navbar-mobile" className="hidden">
             <button onClick={toggleNav} id="nav-button-mobile"><i className="fas fa-film"></i></button>
             <div onClick={toggleNav} id="films-mobile" className={navHidden ? "hidden" : undefined}>
+                <Link to="/keepintouch"><p>keep in touch</p></Link>
                 <Link to="/inauguration"><p>Inauguration</p></Link>
                 <Link to="/nan"><p>Nan</p></Link>
                 <Link to="/remember"><p>I Don't Remember The Name</p></Link>

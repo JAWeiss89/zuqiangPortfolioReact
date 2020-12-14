@@ -13,6 +13,7 @@ const Nav = ({hideNav}) => {
                 </div>
                 </Link>
                 <div id="films">
+                    <NavLink to="/keepintouch"><p>keep in touch</p></NavLink>
                     <NavLink to="/inauguration"><p>Inauguration</p></NavLink>
                     <NavLink to="/nan"><p>Nan</p></NavLink>
                     <NavLink to="/remember"><p>I Don't Remember The Name</p></NavLink>

@@ -1,4 +1,14 @@
-[
+[   {
+        "id": "keepintouch",
+        "title": "keep in touch",
+        "mainimage": "./images/keep1.jpg",
+        "images": ["./images/keep1.jpg", "./images/keep2.jpg", "./images/info.jpg", "./images/keep3.jpg", "./images/landing.jpg"],
+        "specs": "2020 - ongoing / video installation",
+        "details": "",
+        "summaryparagraphs": [
+            ""
+        ]
+    },
     {
         "id": "inauguration",
         "title":"Inauguration",
