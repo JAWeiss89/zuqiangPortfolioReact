@@ -6,11 +6,11 @@ const Home = ({hideNav}) => {
     return (
         <section onClick={hideNav} id="content">
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
-            {/* <img className="main-img" src="./images/landing.jpg" alt="landing"/> */}
+            
             <p><b>News :</b></p>
-            <p>Right of Return, Deluge Contemporary Art, Victoria, Canada. April 10 to May 8, 2021</p>
-
-            <p>Awarded 'Jury Special Prize' at Huayu Youth Award 2020</p>
+            <p>Peng Zuqiang : <em>Hesitations,</em> ANTENNA-TENNA, Shanghai. July 31 - September 5, 2021</p>
+            <img className="main-img" src="./images/poster.jpg" alt="exhibition poster"/>
+            <p><em>Más allá el mar canta,</em> Times Art Centre in Berlin, Germany. Curated by Pablo José Ramirez. September 15 - December 18, 2021.</p>
             
             <p><Link to="/nan"><em>Nan</em></Link> received a 'Special Mention' in International Feature-length Documentary Competition at Festival Film Dokumenter, 2020</p>
 
