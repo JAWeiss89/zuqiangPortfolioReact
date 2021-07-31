@@ -55,8 +55,13 @@ header {
   width: 70%;
 }
 
+.landing-img {
+  width: 50%;
+  margin-bottom: 20px;
+}
+
 .main-img {
-  width:50%;
+  width:100%;
   margin-bottom: 20px;
 }
 
@@ -161,12 +166,11 @@ iframe {
   }
 
   .image-bar img {
-    height: 75%;
-    
+    height: 75%; 
   }
-  .main-img {
+
+  .landing-img {
     width:65%;
-    margin-bottom: 20px;
   }
 
 }

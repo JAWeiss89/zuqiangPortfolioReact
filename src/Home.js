@@ -9,7 +9,7 @@ const Home = ({hideNav}) => {
             
             <p><b>News :</b></p>
             <p>Peng Zuqiang : <em>Hesitations,</em> ANTENNA-TENNA, Shanghai. <br/>July 31 - September 5, 2021</p>
-            <img className="main-img" src="./images/poster.jpg" alt="exhibition poster"/>
+            <img className="landing-img" src="./images/poster.jpg" alt="exhibition poster"/>
             <p><em>Más allá el mar canta,</em> Times Art Centre in Berlin, Germany. <br/>Curated by Pablo José Ramirez. <br/>September 15 - December 18, 2021.</p>
             
             {/* <p><Link to="/nan"><em>Nan</em></Link> received a 'Special Mention' in International Feature-length Documentary Competition at Festival Film Dokumenter, 2020</p> */}

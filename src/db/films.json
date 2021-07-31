@@ -2,11 +2,13 @@
         "id": "keepintouch",
         "title": "keep in touch",
         "mainimage": "./images/keep-install.jpg",
-        "images": ["./images/keep-install.jpg", "./images/keep1.jpg", "./images/keep2.jpg", "./images/info.jpg", "./images/keep4.jpg", "./images/keep5.jpg"],
-        "specs": "2020 - ongoing / video installation",
+        "images": ["./images/keep-install.jpg", "./images/keep1.jpg", "./images/keep2.jpg", "./images/info.jpg", "./images/keep4.jpg"],
+        "specs": "2021 / 13:58 / 5-channel video installation / HD video and Super 8 transferred to HD",
         "details": "",
         "summaryparagraphs": [
-            "currently on view as part of 'A Long Hello' at UCCA Beijing. Dec.12, 2020 - Feb.21, 2021"
+            "Filmed in super 8 and HD video, keep in touch is a five-channel installation consisting of gestures and scenarios, which unfolds an attention on the complexity of contact and connection.",
+            "In the first scene, two men stand outside of a car, waiting for the air conditioner to cool down the vehicle. As one puts on some house music using the car’s CD player, their silence is broken into a state of indescribable feelings. In the second scene, shot on Super 8 film, a person tries to recount a story as he spins a pen around in his hands. As he narrates the story which he cannot fully remember, he ponders this unusual amnesia. In the third scene, also filmed on Super 8, focuses on two pairs of hands cutting each other’s nails, the caring yet sensitive gesture were echoed by the intertitles. The fourth scene features a woman standing in a forest putting tiger balm on her body. And in the last scene, two people are playing cat's cradles, while two voices exchanges stories of inexplicable gestural encounters with other queer bodies.",
+            "Improvised with a non-white cast, and prominently featuring queer and Asian bodies, these fragmented memories, uneasy gossip, and moments of silence, center on one key question: When the idea of an individual subject cannot take form, how might we reconsider being visible, audible, or legible?"
         ]
     },
     {
@@ -14,7 +16,7 @@
         "title":"Inauguration",
         "mainimage": "./images/inauguration1.png",
         "images": ["./images/inauguration1.png", "./images/inauguration2.jpg", "./images/inauguration3.jpg"],
-        "specs":"2020/ 13:32 / Super 8mm & HD",
+        "specs":"2020 / 13:32 / Super 8mm & HD",
         "details":"English/ United States, Cuba / Colour and B&W",
         "summaryparagraphs": [
             "What does it mean to look back on a failed assassination? Why does one decide to forget a radical past? Inauguration looks at the fragmented history of the Young China Association (少年学社). Interweaving temporal connections with faint chances of synchronous events between two disparate events at the margins of Chinese revolutionary history: a failed assassination and an impossible trip. The film narrates a forecast of the past, wherein it renders visible the processes of erasure, remembrance, and archival anchors of the early overseas Chinese revolutionary politics and its aftermaths.",
