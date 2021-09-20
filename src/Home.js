@@ -9,9 +9,9 @@ const Home = ({hideNav}) => {
             
             <p><b>News :</b></p>
 
-            <p><a href="https://www.timesartcenter.org/exhibitions/mas-alla-el-mar-canta/" target="_blank"><em>Más allá el mar canta,</em></a> Times Art Centre in Berlin, Germany. <br/>Curated by Pablo José Ramirez. <br/>September 15 - December 18, 2021.</p>
+            <p><a href="https://www.timesartcenter.org/exhibitions/mas-alla-el-mar-canta/" target="_blank" rel="noreferrer"><em>Más allá el mar canta,</em></a> Times Art Centre in Berlin, Germany. <br/>Curated by Pablo José Ramirez. <br/>September 15 - December 18, 2021.</p>
             
-            <p><a href="https://aashra.ashkalalwan.org" target="_blank"><em>A Slight shift of Angle,</em></a> aashra, Ashkal Alwan <br/>Programmed by Noor Abed. <br/>September 15 - October 15, 2021.</p>
+            <p><a href="https://aashra.ashkalalwan.org" target="_blank" rel="noreferrer"><em>A Slight shift of Angle,</em></a> aashra, Ashkal Alwan <br/>Programmed by Noor Abed. <br/>September 15 - October 15, 2021.</p>
             
             <p><em>Plant Time,</em> 69 Campus, Beijing, China <br/>Curated by WU Jianru and ZHANG Sirui. <br/>September 4 - December 4, 2021.</p>
             
