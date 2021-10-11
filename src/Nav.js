@@ -18,9 +18,9 @@ const Nav = ({hideNav}) => {
                     <NavLink to="/nan"><p>Nan</p></NavLink>
                     <NavLink to="/remember"><p>I Don't Remember The Name</p></NavLink>
                     <NavLink to="/accordionclass"><p>Accordion Class</p></NavLink>
-                    <NavLink to="/spanishvignettes"><p>Spanish Vignettes</p></NavLink>
+                    {/* <NavLink to="/spanishvignettes"><p>Spanish Vignettes</p></NavLink>
                     <NavLink to="/surfacevalue"><p>Surface Value</p></NavLink>
-                    <NavLink to="/thehouse"><p>The House</p></NavLink>
+                    <NavLink to="/thehouse"><p>The House</p></NavLink> */}
                 </div>
                 <div id="info">
                     <NavLink to="/info"><p>info</p></NavLink>
