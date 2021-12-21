@@ -1,8 +1,8 @@
 [   {
         "id": "keepintouch",
         "title": "keep in touch",
-        "mainimage": "./images/keep6.jpg",
-        "images": ["./images/keep6.jpg", "./images/keep7.jpg", "./images/keep8.jpg", "./images/keep9.jpg", "./images/keep10.jpg", "./images/keep4.jpg"],
+        "mainimage": "./images/keep4.jpg",
+        "images": ["./images/keep4.jpg", "./images/keep9.jpg", "./images/keep10.jpg", "./images/keep8.jpg", "./images/keep6.jpg", "./images/keep7.jpg"],
         "specs": "2021 / 13:58 / 5-channel video installation / HD video and Super 8 transferred to HD",
         "details": "",
         "summaryparagraphs": [
