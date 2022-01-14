@@ -17,13 +17,14 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'14px'}}><em>The Elephant Escaped</em></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Macalline Art Center, Beijing </p>
             <p style={{margin:'0px', fontSize:'12px'}}>January 14, 2022 - April 22, 2022</p>
+            <img className="landing-img" src="./images/elephant_mac.jpg" alt="exhibition poster"/>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.timesartcenter.org/events/online-screening-richard-fung-peng-zuqiang/" target="_blank" rel="noreferrer"><em>Online Screening: Transatlantic Labor, Collective Memory, and Nomadism</em></a></p>
+            {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.timesartcenter.org/events/online-screening-richard-fung-peng-zuqiang/" target="_blank" rel="noreferrer"><em>Online Screening: Transatlantic Labor, Collective Memory, and Nomadism</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Featuring video works by Richard Fung and Peng Zuqiang 彭祖强</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Dec 18, 2021 – Dec 23, 2021</p>
-            <p style={{fontSize:'10px'}}>The work included in the screening, 'keep in touch', is funded in part by the City of Houston through Houston Arts Alliance”.</p>
-            <img style={{height:'75px'}} src="./images/coh.png" alt="City of Houston Texas Seal"/>
+            <p style={{margin:'0px', fontSize:'12px'}}>Dec 18, 2021 – Dec 23, 2021</p> */}
+            {/* <p style={{fontSize:'10px'}}>The work included in the screening, 'keep in touch', is funded in part by the City of Houston through Houston Arts Alliance”.</p>
+            <img style={{height:'75px'}} src="./images/coh.png" alt="City of Houston Texas Seal"/> */}
             
 
 
