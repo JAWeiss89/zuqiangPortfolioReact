@@ -11,12 +11,12 @@ const Home = ({hideNav}) => {
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/one-song" target="_blank" rel="noreferrer"><em>One song is very much like another, and the boat is always from afar</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Guangdong Times Museum, Guangzhou </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>December 4, 2021 - January 31, 2022</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>December 4, 2021 - January 30, 2022</p>
             <img className="landing-img" src="./images/one_song.png" alt="Exhibit Flyer"/>
             
-            <p style={{margin:'0px', fontSize:'14px'}}><em>The Elephant Escaped</em></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://www.macallineart.org/en/exhibitions/1076/the-elephant-escaped" target="_blank" rel="noreferrer"><em>The Elephant Escaped</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Macalline Art Center, Beijing </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>January 14, 2022 - April 22, 2022</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>January 15, 2022 - April 16, 2022</p>
             <img className="landing-img" src="./images/elephant_mac.jpg" alt="exhibition poster"/>
             <p></p>
 
