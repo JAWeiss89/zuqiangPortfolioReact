@@ -1,4 +1,5 @@
-[   {
+[   
+    {
         "id": "keepintouch",
         "title": "keep in touch",
         "mainimage": "./images/keep4.jpg",
@@ -53,6 +54,16 @@
             "Cuba once had the largest Chinese community in Latin America. In 1847, the first group of five hundred Chinese workers arrived in Cuba as indentured workers. Through juxtapositions of the now-disappearing Chinese migrant worker community in Havana and the expanding investments in Cuba made by China, the film observes the visible and invisible traces of Chinese capitals in a Chinese nursing home, a Wifi park, a bio-power plant and sugarcane fields, punctuated by archival petitions from the Chinese 'coolies' in the late 19th century."
         ],
         "videosrc":"https://player.vimeo.com/video/266760552"
+    },
+    {
+        "id": "sightleak",
+        "title": "Sight Leak",
+        "mainimage": "./images/sight1.png",
+        "images":["./images/sight1.png", "./images/sight2.png", "./images/sight3.png", "./images/sight4.png"],
+        "specs": "2022 / 12:07, single channel, 16mm and super 8mm film transferred to HD video",
+        "summaryparagraphs": [
+            "“The moon, the sometimes dark street, trees, it’s warm […] at last, a certain eroticism possible (that of the warm night).” When Roland Barthes visited China in 1974, he jotted down some notes that would become his Travels in China (Carnets du voyage en Chine), reflecting his homoerotic imagination of an exotic country. Barthes did not publish these writings during his lifetime, and his unsettling judgments about China are rewritten in Peng Zuqiang's work as the looking of a young man in the shadows, and around the corners. The protagonist in the work travels through different spaces and buildings, seemingly never looking at anyone, yet silently looking at someone, turning towards a certain collectivity in ambiguity."
+        ]
     },
     {
         "id": "accordionclass",
