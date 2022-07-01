@@ -16,7 +16,7 @@ const Home = ({hideNav}) => {
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London, UK </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>April 13, 2022 - June 12, 2022</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>April 13, 2022 - June 19, 2022</p>
             <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
             <p></p>
 
