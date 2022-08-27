@@ -19,6 +19,8 @@ const Film = ( {films, hideNav} ) => {
         <section onClick={hideNav} id="content">
             <h1 className="title">{film.title}</h1>
             <img className="main-img" src={imageFeatured} alt={film.title}/>
+            {film.photocredit &&
+            <p id="photocredit">{film.photocredit}</p>}
             {film.images &&
             <div className="image-bar">
                 {film.images.map((image, i) => {

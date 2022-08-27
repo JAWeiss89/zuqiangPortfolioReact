@@ -13,19 +13,24 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Guangdong Times Museum, Guangzhou </p>
             <p style={{margin:'0px', fontSize:'12px'}}>December 4, 2021 - January 30, 2022</p>
             <img className="landing-img" src="./images/one_song.png" alt="Exhibit Flyer"/> */}
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://shanghai.ocat.org.cn/en/category/exhibition-list/detail!InSolidaritywith" target="_blank" rel="noreferrer"><em>In Solidarity With _____?</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>OCAT Shanghai x KADIST, Shanghai, CN</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>August 27, 2022 - October 23, 2022</p>
+            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
+            <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London, UK </p>
             <p style={{margin:'0px', fontSize:'12px'}}>April 13, 2022 - June 19, 2022</p>
-            <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
+            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
             <p></p>
 
             
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://www.macallineart.org/en/exhibitions/1076/the-elephant-escaped" target="_blank" rel="noreferrer"><em>The Elephant Escaped</em></a></p>
+            {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="http://www.macallineart.org/en/exhibitions/1076/the-elephant-escaped" target="_blank" rel="noreferrer"><em>The Elephant Escaped</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Macalline Art Center, Beijing </p>
             <p style={{margin:'0px', fontSize:'12px'}}>January 15, 2022 - April 16, 2022</p>
             <img className="landing-img" src="./images/elephant_mac.jpg" alt="exhibition poster"/>
-            <p></p>
+            <p></p> */}
 
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.timesartcenter.org/events/online-screening-richard-fung-peng-zuqiang/" target="_blank" rel="noreferrer"><em>Online Screening: Transatlantic Labor, Collective Memory, and Nomadism</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Featuring video works by Richard Fung and Peng Zuqiang 彭祖强</p>

@@ -1,4 +1,18 @@
-[   
+[  
+    {
+        "id": "hindsights",
+        "photocredit": "Photo credit © Anne Tetzlaff",
+        "title": "Hindsights",
+        "mainimage": "./images/hindsights1.jpg",
+        "images": ["./images/hindsights1.jpg", "./images/hindsights2.jpg", "./images/hindsights3.jpg", "./images/hindsights4.jpg"],
+        "summaryparagraphs": [
+            "Hindsights is the debut publication of Chinese artist, Peng Zuqiang, launched during the occasion of his first UK solo exhibition, Sideways Looking, presented at Cell Project Space, 13 April – 19 June 2022.",
+            "An edition of 300 copies, Hindsights features contributions by Ren Yue, Shaonan Xi, and Alvin Li commissioned by the artist interspersed with notes, quotes, stills and outtakes collected by Peng Zuqiang. The book is copy edited by Lai Fei and designed by Studio Pianpian He & Max Harvey. ",
+            "Ren Yue offers an ‘outtake’ in short story form, tangling together characters and situations depicted in Peng’s 5-channel moving image ‘keep in touch’. Things left unsaid in the viscous summer heat hang over them as table tennis matches, frustrating parties, nails cut and lab experiments recount the knotty relationships at hand. In addition, Ren Yue contributes two Chinese language poems that speak to ‘Sight Leak’ and ‘The Cyan Garden’, works presented in Sideways Looking alongside ‘keep in touch’.",
+            "Shaonan Xi reflects on the 30-year history of Lai Lai, a dance floor which served working-class gay and trans people in Shanghai from 1990 until 2019. A screening of the documentary Come Dance With Me (dir: Liu Yunyi, 2019), organised by Peng Zuqiang in Shanghai for a small audience, restates the importance of unstable constellations of relationships, that made Lai Lai what it was. Drawing upon a non-Western drag and camp sensibility, an embodied lexicon of queer identifications and disidentifications that Lai Lai routinely hosted, Xi points to Lai Lai’s significance as a site for radical acts of care such as receiving HIV medication through contraction (when a person willingly contracts HIV to be able to to give medication to a patient who is legally prohibited from obtaining it) in the face of structural obstacles in healthcare provision.",
+            "Alvin Li's 'From San Agustín Etla to Zipolite' is an auto-fictional account of the trials and tribulations of being in love and a retelling of a specific long-distance relationship with a person named Nick. Conflicts around real or assumed cultural ignorance, differences in sexual and pop music preferences (‘you were so punk rock, I grew up on hip hop’) become the backdrop to humorous self-reflection on love, longing, misperception, becoming someone else and mourning what was or could have been. "
+        ]
+    }, 
     {
         "id": "keepintouch",
         "title": "keep in touch",
@@ -10,7 +24,8 @@
             "Filmed in super 8 and HD video, keep in touch is a five-channel installation consisting of gestures and scenarios, which unfolds an attention on the complexity of contact and connection.",
             "In the first scene, two men stand outside of a car, waiting for the air conditioner to cool down the vehicle. As one puts on some house music using the car’s CD player, their silence is broken into a state of indescribable feelings. In the second scene, shot on Super 8 film, a person tries to recount a story as he spins a pen around in his hands. As he narrates the story which he cannot fully remember, he ponders this unusual amnesia. In the third scene, also filmed on Super 8, focuses on two pairs of hands cutting each other’s nails, the caring yet sensitive gesture were echoed by the intertitles. The fourth scene features a woman standing in a forest putting tiger balm on her body. And in the last scene, two people are playing cat's cradles, while two voices exchanges stories of inexplicable gestural encounters with other queer bodies.",
             "Improvised with a non-white cast, these fragmented memories, uneasy gossip, and moments of silence, center on one key question: When the idea of an individual subject cannot take form, how might we reconsider being visible, audible, or legible?"
-        ]
+        ],
+        "videosrc":"https://player.vimeo.com/video/499705365"
     },
     {
         "id": "inauguration",
@@ -63,7 +78,8 @@
         "specs": "2022 / 12:15, single channel, bw 16mm and Super 8mm film transferred to HD video",
         "summaryparagraphs": [
             "“The moon, the sometimes dark street, trees, it's warm […] at last, a certain eroticism possible (that of the warm night).” When Roland Barthes visited China in 1973, he jotted down some notes that would become part of his Travels in China (Carnets du voyage en Chine), an underplot of desire in his imagination of the country. Barthes did not publish these writings during his lifetime, and his unsettling judgments about China are refracted in Peng Zuqiang's work as fragments of dialogues on class and looking, responding to the reflections on the same matters elicited alongside Barthes' sense of eroticism. The local tourist in the film travels through different spaces and gatherings, seemingly never looking at anyone, yet silently looking at someone, turning towards a certain collectivity in the know. A possible subversion of a homoerotic foreign gaze."
-        ]
+        ],
+        "videosrc":"https://player.vimeo.com/video/699857428"
     },
     {
         "id": "accordionclass",
@@ -72,15 +88,16 @@
         "images":["./images/accordion1.png", "./images/accordion2.jpg"],
         "specs":"2016 / 14:49' /  HD video",
         "summaryparagraphs": ["During the Cultural Revolution, the accordion was the only permitted western instrument. With its rhythmic and performative quality, the accordion was favored as an instrument of propaganda. In the ’90s, when the piano and other instruments regained popularity, the accordion became less influential than it had been. However, the instrument is having a revival in the 2010s. The film looks at two accordion classes taught in Changsha, China: One for the primary school kids from mostly working-class families, as part of their school curriculum. The other for a group of middle-aged men and women that meet weekly at their leisure."],
-        "videosrc":"https://player.vimeo.com/video/173978257"
+        "videosrc":"https://player.vimeo.com/video/173559205"
     },
     {
         "id": "cyangarden",
-        "title": "They Cyan Garden",
+        "title": "The Cyan Garden",
         "mainimage":"./images/garden1.jpg",
         "images":["./images/garden1.jpg", "./images/garden2.jpg", "./images/garden3.jpg", "./images/garden4.jpg", "./images/garden5.jpg"],
         "specs":"2022, 08:05, single channel, Color & BW",
         "details":"16mm film transferred to HD video",
-        "summaryparagraphs": ["The Cyan Garden considers the limits of giving form to the past which cannot cohere into memory. In part filmed on ‘Lucky', a discontinued b&w 16mm film reel stock intended for military aerial detection, the moving image revolves around a radio station that was not supposed to be detected and an Airbnb apartment ‘The Lover’, run by Peng’s friend in their hometown. Between 1969 and 1981, a Malaysian communist underground radio in exile Voice of the Malayan Revolution resided in what is now soon to be a resort. Projected on a holographic screen producing shadowy after-images, the work flickers between radio static, bursts of archival jingles, ruins of the radio station and choreographed scenes of the Airbnb apartment decorated in imagined ‘Southeast Asian’ style. Contemplating on a revolution’s fraught relation to emancipation, The Cyan Garden interweaves visual notes on revolutionary remains and stifled romance and inability to remember ‘rightly’ as pop songs lull in the background.", "Commissioned by Cell Project Space and Center for Experimental Film"]
+        "summaryparagraphs": ["The Cyan Garden considers the limits of giving form to the past which cannot cohere into memory. In part filmed on ‘Lucky', a discontinued b&w 16mm film reel stock intended for military aerial detection, the moving image revolves around a radio station that was not supposed to be detected and an Airbnb apartment ‘The Lover’, run by Peng’s friend in their hometown. Between 1969 and 1981, a Malaysian communist underground radio in exile Voice of the Malayan Revolution resided in what is now soon to be a resort. Projected on a holographic screen producing shadowy after-images, the work flickers between radio static, bursts of archival jingles, ruins of the radio station and choreographed scenes of the Airbnb apartment decorated in imagined ‘Southeast Asian’ style. Contemplating on a revolution’s fraught relation to emancipation, The Cyan Garden interweaves visual notes on revolutionary remains and stifled romance and inability to remember ‘rightly’ as pop songs lull in the background.", "Commissioned by Cell Project Space and Center for Experimental Film"],
+        "videosrc":"https://player.vimeo.com/video/708332570"
     }
 ]

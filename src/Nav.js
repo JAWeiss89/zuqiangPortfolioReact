@@ -13,6 +13,7 @@ const Nav = ({hideNav}) => {
                 </div>
                 </Link>
                 <div id="films">
+                    <NavLink to="/hindsights"><p>Hindsights</p></NavLink>
                     <NavLink to="/cyangarden"><p>The Cyan Garden</p></NavLink>
                     <NavLink to="/sightleak"><p>Sight Leak</p></NavLink>
                     <NavLink to="/keepintouch"><p>keep in touch</p></NavLink>
@@ -26,6 +27,7 @@ const Nav = ({hideNav}) => {
                 </div>
                 <div id="info">
                     <p>-</p>
+                    
                     <NavLink to="/info"><p style={{fontWeight:'bold'}}>info</p></NavLink>
                 </div>
             </div>

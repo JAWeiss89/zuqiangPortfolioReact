@@ -67,6 +67,12 @@ header {
 
 .main-img {
   width:100%;
+}
+
+#photocredit {
+  font-size: .8em;
+  margin-top: 0;
+  text-align: end;
   margin-bottom: 20px;
 }
 
