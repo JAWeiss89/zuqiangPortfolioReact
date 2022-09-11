@@ -84,6 +84,12 @@ header {
   margin: 0 0 10px;
 }
 
+#link {
+  font-weight: 700;
+  text-decoration: underline;
+  color: #b19f8b;
+}
+
 .title {
   margin: 0 0 20px;
   font-weight: 300;

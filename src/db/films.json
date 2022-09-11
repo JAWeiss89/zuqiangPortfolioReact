@@ -1,10 +1,11 @@
 [  
     {
         "id": "hindsights",
+        "link": "https://www.cellprojects.org/content/hindsights-publication-purchase-page",
         "photocredit": "Photo credit © Anne Tetzlaff",
         "title": "Hindsights",
         "mainimage": "./images/hindsights1.jpg",
-        "images": ["./images/hindsights1.jpg", "./images/hindsights2.jpg", "./images/hindsights3.jpg", "./images/hindsights4.jpg"],
+        "images": ["./images/hindsights1.jpg", "./images/hindsights2.jpg", "./images/hindsights3.jpg", "./images/hindsights4.jpg", "./images/hindsights5.jpg"],
         "summaryparagraphs": [
             "Hindsights is the debut publication of Chinese artist, Peng Zuqiang, launched during the occasion of his first UK solo exhibition, Sideways Looking, presented at Cell Project Space, 13 April – 19 June 2022.",
             "An edition of 300 copies, Hindsights features contributions by Ren Yue, Shaonan Xi, and Alvin Li commissioned by the artist interspersed with notes, quotes, stills and outtakes collected by Peng Zuqiang. The book is copy edited by Lai Fei and designed by Studio Pianpian He & Max Harvey. ",
@@ -16,8 +17,8 @@
     {
         "id": "keepintouch",
         "title": "keep in touch",
-        "mainimage": "./images/keep4.jpg",
-        "images": ["./images/keep4.jpg", "./images/keep9.jpg", "./images/keep10.jpg", "./images/keep8.jpg", "./images/keep6.jpg", "./images/keep7.jpg"],
+        "mainimage": "./images/keep1.jpg",
+        "images": ["./images/keep1.jpg", "./images/keep2.jpg", "./images/keep3.jpg", "./images/keep4.jpg", "./images/keep5.jpg", "./images/keep6.jpg", "./images/keep7.jpg", "./images/keep8.jpg"],
         "specs": "2021 / 13:58 / 5-channel video installation / HD video and Super 8 transferred to HD",
         "details": "",
         "summaryparagraphs": [
@@ -93,8 +94,8 @@
     {
         "id": "cyangarden",
         "title": "The Cyan Garden",
-        "mainimage":"./images/garden1.jpg",
-        "images":["./images/garden1.jpg", "./images/garden2.jpg", "./images/garden3.jpg", "./images/garden4.jpg", "./images/garden5.jpg"],
+        "mainimage":"./images/garden6.jpg",
+        "images":["./images/garden6.jpg", "./images/garden1.jpg", "./images/garden2.jpg", "./images/garden3.jpg", "./images/garden4.jpg", "./images/garden5.jpg"],
         "specs":"2022, 08:05, single channel, Color & BW",
         "details":"16mm film transferred to HD video",
         "summaryparagraphs": ["The Cyan Garden considers the limits of giving form to the past which cannot cohere into memory. In part filmed on ‘Lucky', a discontinued b&w 16mm film reel stock intended for military aerial detection, the moving image revolves around a radio station that was not supposed to be detected and an Airbnb apartment ‘The Lover’, run by Peng’s friend in their hometown. Between 1969 and 1981, a Malaysian communist underground radio in exile Voice of the Malayan Revolution resided in what is now soon to be a resort. Projected on a holographic screen producing shadowy after-images, the work flickers between radio static, bursts of archival jingles, ruins of the radio station and choreographed scenes of the Airbnb apartment decorated in imagined ‘Southeast Asian’ style. Contemplating on a revolution’s fraught relation to emancipation, The Cyan Garden interweaves visual notes on revolutionary remains and stifled romance and inability to remember ‘rightly’ as pop songs lull in the background.", "Commissioned by Cell Project Space and Center for Experimental Film"],

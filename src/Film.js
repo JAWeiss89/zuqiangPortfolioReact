@@ -30,6 +30,7 @@ const Film = ( {films, hideNav} ) => {
                 })}
             </div>
             }
+            {film.link && <p id="link"><a href="https://www.cellprojects.org/content/hindsights-publication-purchase-page">Available Here</a></p>}
             <p id="specs">{film.specs}</p>
             <p id="details">{film.details}</p>
             {film.summaryparagraphs.map((paragraph, i)=> <p key={i}>{paragraph}</p>)}

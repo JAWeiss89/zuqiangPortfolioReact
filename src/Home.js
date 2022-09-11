@@ -8,6 +8,11 @@ const Home = ({hideNav}) => {
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
             
             <p><b>News :</b></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.25fps.hr/en/program/2022/competition" target="_blank" rel="noreferrer"><em>25FPS Festival</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Zagreb, HR</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>September 21-24, 2022</p>
+            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
+            <p></p>
 
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/one-song" target="_blank" rel="noreferrer"><em>One song is very much like another, and the boat is always from afar</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Guangdong Times Museum, Guangzhou </p>
