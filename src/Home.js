@@ -18,6 +18,12 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>November 30, 2022</p>
             <p></p>
 
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.e-flux.com/live/495780/souvenirs-of-frictions-three-films-by-peng-zuqiang-nbsp-nbsp-nbsp-nbsp/" target="_blank" rel="noreferrer"><em>Souvenirs of Frictions: Three films by Peng Zuqiang </em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>e-flux screening room, New York, US</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>October 20, 2022</p>
+            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
+            <p></p>
+
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.25fps.hr/en/program/2022/competition" target="_blank" rel="noreferrer"><em>25FPS Festival</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Zagreb, HR</p>
             <p style={{margin:'0px', fontSize:'12px'}}>September 21-24, 2022</p>
