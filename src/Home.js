@@ -8,6 +8,16 @@ const Home = ({hideNav}) => {
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
             
             <p><b>News :</b></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://chateaushatto.com/exhibition/oceans-of-time/" target="_blank" rel="noreferrer"><em>Oceans of Time</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Château Shatto, Los Angeles, US</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>December 10, 2022–February 4, 2023</p>
+            <p></p>
+            
+            <p style={{margin:'0px', fontSize:'14px'}}><em>Semicolons - Film Program</em></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Ellen de Bruijne PROJECTS, Amsterdam, NL</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>January 28- February 3, 2023</p>
+            <p></p>
+
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kasselerdokfest.de/compilation/p-c88ab28d-64a3-1249-9b0f-f96d3070dd31" target="_blank" rel="noreferrer"><em>Kasseler Dokfest</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Kassel, DE</p>
             <p style={{margin:'0px', fontSize:'12px'}}>November 18, 2022</p>
