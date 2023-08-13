@@ -29,7 +29,19 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.carpark.berlin/en" target="_blank" rel="noreferrer"><em>CARPARK</em></a></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Peng Zuqiang : Vestiges</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>September 9 – October 21, 2023</p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>Memory is an Editing Station', 22nd videobrasil</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>October 18, 2023 - April 28, 2024</p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.edfilmfest.org.uk/edinburgh-international-film-festival" target="_blank" rel="noreferrer"><em>Edinburgh International Film Festival</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>August 18-23, 2023</p>
+            <p></p>
+
+            {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.carpark.berlin/en" target="_blank" rel="noreferrer"><em>CARPARK</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Berlin, DE</p>
             <p style={{margin:'0px', fontSize:'12px'}}>January 20 – February 19, 2023</p>
             <p></p>
@@ -57,30 +69,30 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.e-flux.com/live/495780/souvenirs-of-frictions-three-films-by-peng-zuqiang-nbsp-nbsp-nbsp-nbsp/" target="_blank" rel="noreferrer"><em>Souvenirs of Frictions: Three films by Peng Zuqiang </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>e-flux screening room, New York, US</p>
             <p style={{margin:'0px', fontSize:'12px'}}>October 20, 2022</p>
-            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
+            <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.25fps.hr/en/program/2022/competition" target="_blank" rel="noreferrer"><em>25FPS Festival</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Zagreb, HR</p>
             <p style={{margin:'0px', fontSize:'12px'}}>September 21-24, 2022</p>
-            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
+            <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
             <p></p>
 
-            {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/one-song" target="_blank" rel="noreferrer"><em>One song is very much like another, and the boat is always from afar</em></a></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/one-song" target="_blank" rel="noreferrer"><em>One song is very much like another, and the boat is always from afar</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Guangdong Times Museum, Guangzhou </p>
             <p style={{margin:'0px', fontSize:'12px'}}>December 4, 2021 - January 30, 2022</p>
-            <img className="landing-img" src="./images/one_song.png" alt="Exhibit Flyer"/> */}
+            <img className="landing-img" src="./images/one_song.png" alt="Exhibit Flyer"/>
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://shanghai.ocat.org.cn/en/category/exhibition-list/detail!InSolidaritywith" target="_blank" rel="noreferrer"><em>In Solidarity With _____?</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>OCAT Shanghai x KADIST, Shanghai, CN</p>
             <p style={{margin:'0px', fontSize:'12px'}}>August 27, 2022 - October 23, 2022</p>
-            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
+            <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London, UK </p>
             <p style={{margin:'0px', fontSize:'12px'}}>April 13, 2022 - June 19, 2022</p>
-            {/* <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/> */}
-            <p></p>
+            <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
+            <p></p> */}
 
             
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="http://www.macallineart.org/en/exhibitions/1076/the-elephant-escaped" target="_blank" rel="noreferrer"><em>The Elephant Escaped</em></a></p>
