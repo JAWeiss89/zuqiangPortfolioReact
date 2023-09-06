@@ -6,7 +6,9 @@ const Info = ({hideNav}) => {
             <h1 id="title" className="hidden">info</h1>
             {/* <img className="main-img" src="./images/info.jpg" alt="info"/> */}
             <p>pengzuqiangstudio (at) gmail.com | <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1lmyM9UjpoS4ztlFPKtjNQ9ciHQHyG9pX--Q7KzkBAc0/edit?usp=sharing"><span>CV</span></a></p>
+            <p>For exhibitions/gallery:</p>
             <div style={{ display: 'flex'}}><a href="mailto:info@antenna-space.com"><p style={{ margin: '0' }}>info@antenna-space.com</p></a></div>
+            <p>For screenings/distribution:</p>
             <div style={{ display: 'flex'}}><a href="mailto:info@vdb.org"><p style={{ margin: '0' }}>info@vdb.org</p></a></div>
             <p>-</p>
             <p>Peng Zuqiang works with film, video and installations.</p>
