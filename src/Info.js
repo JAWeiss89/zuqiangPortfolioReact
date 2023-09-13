@@ -7,10 +7,10 @@ const Info = ({hideNav}) => {
             {/* <img className="main-img" src="./images/info.jpg" alt="info"/> */}
             <p>pengzuqiangstudio (at) gmail.com | <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1lmyM9UjpoS4ztlFPKtjNQ9ciHQHyG9pX--Q7KzkBAc0/edit?usp=sharing"><span>CV</span></a></p>
         
-            <p style={{ marginBottom: '0' }}>for Gallery: </p>
+            <p style={{ marginBottom: '0' }}> Gallery: </p>
             <p style={{ marginTop: '0' }}><a href="http://antenna-space.com/en/artists/pengzuqiang/">Antenna Space</a></p>
 
-            <p style={{ marginBottom: '0' }}>for Distributor: </p>
+            <p style={{ marginBottom: '0' }}> Distributor: </p>
             <p style={{ marginTop: '0' }}><a href="https://vdb.org/artists/peng-zuqiang">VDB</a></p>
 
             <p>-</p>
