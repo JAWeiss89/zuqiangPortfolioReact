@@ -39,8 +39,9 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>October 18, 2023 - April 28, 2024</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.edfilmfest.org.uk/edinburgh-international-film-festival" target="_blank" rel="noreferrer"><em>Edinburgh International Film Festival</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>August 18-23, 2023</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/mixiumixiu-shoudaoxinhaolema/" target="_blank" rel="noreferrer"><em>Horizons: Is there anybody out there?</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Antenna Space, Shanghai</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Sept 16 – Oct 25, 2023</p>
             <p></p>
 
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.carpark.berlin/en" target="_blank" rel="noreferrer"><em>CARPARK</em></a></p>
