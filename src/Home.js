@@ -29,7 +29,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p> */}
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Peng Zuqiang : Vestiges</em></a></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna</p>
             <p style={{margin:'0px', fontSize:'12px'}}>September 9 – October 21, 2023</p>
             <p></p>
