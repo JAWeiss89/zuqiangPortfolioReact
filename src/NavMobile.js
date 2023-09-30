@@ -10,6 +10,8 @@ const NavMobile = ({navHidden, toggleNav}) => {
         <div id="navbar-mobile" className="hidden">
             <button onClick={toggleNav} id="nav-button-mobile"><i className="fas fa-film"></i></button>
             <div onClick={toggleNav} id="films-mobile" className={navHidden ? "hidden" : undefined}>
+                <Link to="/autocorrects"><p>Autocorrects</p></Link>
+                <Link to="/dejavu"><p>Déjà vu</p></Link>
                 <Link to="/hindsights"><p>Hindsights</p></Link>
                 <Link to="/cyangarden"><p>The Cyan Garden</p></Link>
                 <Link to="/sightleak"><p>Sight Leak</p></Link>
@@ -21,6 +23,7 @@ const NavMobile = ({navHidden, toggleNav}) => {
                 {/* <Link to="/spanishvignettes"><p>Spanish Vignettes</p></Link>
                 <Link to="/surfacevalue"><p>Surface Value</p></Link>
                 <Link to="/thehouse"><p>The House</p></Link> */}
+                
             </div>
             <div onClick={toggleNav} id="info-mobile" className={navHidden ? "hidden" : undefined}>
                 
