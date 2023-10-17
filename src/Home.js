@@ -49,7 +49,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>October 28 - December 16, 2023</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://antimatter.squarespace.com/sunday-oct-22" target="_blank" rel="noreferrer"><em>Antimatter [media art]</em></a></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://antimatter.squarespace.com/sunday-oct-22" target="_blank" rel="noreferrer"><em>Goddess of Speed</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Antimatter [media art], Victoria, Canada</p>
             <p style={{margin:'0px', fontSize:'12px'}}>October 22, 2023</p>
             <p></p>
