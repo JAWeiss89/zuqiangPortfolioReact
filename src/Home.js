@@ -39,6 +39,22 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>October 18, 2023 - April 28, 2024</p>
             <p></p>
 
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://fsrr.org/en/mostre/peng-zuqiang-vestiges/" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>November 2,2023  – January 7, 2024</p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kurimanzutto.com/exhibitions/a-story-of-a-merchant" target="_blank" rel="noreferrer"><em>a story of a merchant</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>kurimanzutto, CDMX</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>October 28 - December 16, 2023</p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://antimatter.squarespace.com/sunday-oct-22" target="_blank" rel="noreferrer"><em>Antimatter [media art]</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Anti[matter], Victoria, Canada</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>October 22, 2023</p>
+            <p></p>
+            
+
             <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/mixiumixiu-shoudaoxinhaolema/" target="_blank" rel="noreferrer"><em>Horizons: Is there anybody out there?</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Antenna Space, Shanghai</p>
             <p style={{margin:'0px', fontSize:'12px'}}>Sept 16 – Oct 25, 2023</p>
