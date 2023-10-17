@@ -50,10 +50,9 @@ const Home = ({hideNav}) => {
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://antimatter.squarespace.com/sunday-oct-22" target="_blank" rel="noreferrer"><em>Antimatter [media art]</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Anti[matter], Victoria, Canada</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Antimatter [media art], Victoria, Canada</p>
             <p style={{margin:'0px', fontSize:'12px'}}>October 22, 2023</p>
             <p></p>
-            
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/mixiumixiu-shoudaoxinhaolema/" target="_blank" rel="noreferrer"><em>Horizons: Is there anybody out there?</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Antenna Space, Shanghai</p>
