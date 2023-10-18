@@ -40,7 +40,7 @@ const Home = ({hideNav}) => {
             <p></p>
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>Memory is an Editing Station</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>22nd videobrasil</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>22nd videobrasil, São Paulo</p>
             <p style={{margin:'0px', fontSize:'12px'}}>October 18, 2023 - April 28, 2024</p>
             <p></p>
 
@@ -50,7 +50,7 @@ const Home = ({hideNav}) => {
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://antimatter.squarespace.com/sunday-oct-22" target="_blank" rel="noreferrer"><em>Goddess of Speed</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Antimatter [media art], Victoria, Canada</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Antimatter [media art]</p>
             <p style={{margin:'0px', fontSize:'12px'}}>October 22, 2023</p>
             <p></p>
 
