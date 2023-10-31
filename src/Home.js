@@ -29,10 +29,6 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p> */}
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>September 9 – October 21, 2023 (solo)</p>
-            <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://fsrr.org/en/mostre/peng-zuqiang-vestiges/" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin </p>
@@ -49,14 +45,9 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>October 28 - December 16, 2023</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://antimatter.squarespace.com/sunday-oct-22" target="_blank" rel="noreferrer"><em>Goddess of Speed</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Antimatter [media art]</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>October 22, 2023</p>
-            <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/mixiumixiu-shoudaoxinhaolema/" target="_blank" rel="noreferrer"><em>Horizons: Is there anybody out there?</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Antenna Space, Shanghai</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Sept 16 – Oct 25, 2023</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kasselerdokfest.de/en/news/programmkatalog-ab-heute-online-1" target="_blank" rel="noreferrer"><em>Goddess of Speed</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>40th Kasseler Dokfest</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>November 17, 2023</p>
             <p></p>
 
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.carpark.berlin/en" target="_blank" rel="noreferrer"><em>CARPARK</em></a></p>
