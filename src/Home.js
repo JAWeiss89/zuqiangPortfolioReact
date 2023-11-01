@@ -15,15 +15,6 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Upcoming</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://alchemyfilmandarts.org.uk/festival-2023-screenings-up-down-and-side-to-side/" target="_blank" rel="noreferrer"><em>Alchemy Film and Moving Image Festival 2023</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Hawick, GB </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>April 27 – 30, 2023</p>
-            <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.emaf.de/en/" target="_blank" rel="noreferrer"><em>European Media Art Festival, No.36</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Osnabrück, DE</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>April 19 - 23, 2023</p>
-            <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.automatala.org/threshold-to-threshold-peng-zuqiang-kohei-sengen" target="_blank" rel="noreferrer"><em>Passwords</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Automata, Los Angeles, US </p>
