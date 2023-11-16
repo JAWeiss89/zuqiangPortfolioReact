@@ -37,6 +37,11 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>October 28 - December 16, 2023</p>
             <p></p>
 
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://ucca.org.cn/en/exhibition/dream-time/" target="_blank" rel="noreferrer"><em>Dream Time</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>UCCA Beijing</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Jan 27 - April 28, 2024</p>
+            <p></p>
+
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kasselerdokfest.de/en/compilation/p-e6156d46-fb1b-8f49-bcf4-c5e216240d7f" target="_blank" rel="noreferrer"><em>Lost Archives II</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>40th Kasseler Dokfest</p>
             <p style={{margin:'0px', fontSize:'12px'}}>November 17, 2023</p>
