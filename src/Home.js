@@ -22,25 +22,27 @@ const Home = ({hideNav}) => {
             <p></p> */}
 
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://fsrr.org/en/mostre/peng-zuqiang-vestiges/" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>November 2,2023  – January 7, 2024 (solo)</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://physicsroom.org.nz/exhibitions/im-so-into-you" target="_blank" rel="noreferrer"><em>I'm so into you</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>The Physics Room, Christchurch </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Feb 1,2024  – Mar 28, 2024</p>
             <p></p>
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>Memory is an Editing Station</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>22nd videobrasil, São Paulo</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>October 18, 2023 - April 28, 2024</p>
-            <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.hartwigartfoundation.nl/en/programmes/courtplay/" target="_blank" rel="noreferrer"><em>Courtplay</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Hartwig Art Foundation, Amsterdam</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>January 12-13, 2024</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Oct 18, 2023 - April 28, 2024</p>
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://ucca.org.cn/en/exhibition/dream-time/" target="_blank" rel="noreferrer"><em>Dream Time</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>UCCA Beijing</p>
             <p style={{margin:'0px', fontSize:'12px'}}>Jan 27 - April 28, 2024</p>
             <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.hartwigartfoundation.nl/en/programmes/courtplay/" target="_blank" rel="noreferrer"><em>Courtplay</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Hartwig Art Foundation, Amsterdam</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Jan 12-13, 2024</p>
+            <p></p>
+
+        
 
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.carpark.berlin/en" target="_blank" rel="noreferrer"><em>CARPARK</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Berlin, DE</p>
