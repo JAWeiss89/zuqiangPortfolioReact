@@ -37,9 +37,9 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Jan 27 - April 28, 2024</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.hartwigartfoundation.nl/en/programmes/courtplay/" target="_blank" rel="noreferrer"><em>Courtplay</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Hartwig Art Foundation, Amsterdam</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Jan 12-13, 2024</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://galeriecrevecoeur.com/exhibitions/it-was-a-hot-day-a-day-that-was-blue-all-through" target="_blank" rel="noreferrer"><em>it was a hot day, a day that was blue all through</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}> Galerie Crèvecoeur, Paris</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Feb 9 - April 13, 2024</p>
             <p></p>
 
         
