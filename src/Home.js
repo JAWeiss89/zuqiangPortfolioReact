@@ -22,9 +22,9 @@ const Home = ({hideNav}) => {
             <p></p> */}
 
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://physicsroom.org.nz/exhibitions/im-so-into-you" target="_blank" rel="noreferrer"><em>I'm so into you</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>The Physics Room, Christchurch </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Feb 1,2024  – Mar 28, 2024</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/follow-the-feeling" target="_blank" rel="noreferrer"><em>Follow the Feeling</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Times Museum, Guangzhou </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Mar 22,2024  – Jun 23, 2024</p>
             <p></p>
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>Memory is an Editing Station</em></a></p>
@@ -40,6 +40,16 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://galeriecrevecoeur.com/exhibitions/it-was-a-hot-day-a-day-that-was-blue-all-through" target="_blank" rel="noreferrer"><em>it was a hot day, a day that was blue all through</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}> Galerie Crèvecoeur, Paris</p>
             <p style={{margin:'0px', fontSize:'12px'}}>Feb 9 - April 13, 2024</p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/antenna-tenna/tianxiandexianxiangmukongjian/" target="_blank" rel="noreferrer"><em>Project Space</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}> Antenna-Tenna, Shanghai</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Mar 16 - April 25, 2024</p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://physicsroom.org.nz/exhibitions/im-so-into-you" target="_blank" rel="noreferrer"><em>I'm so into you</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>The Physics Room, Christchurch </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Feb 1,2024  – Mar 28, 2024</p>
             <p></p>
 
         
