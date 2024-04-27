@@ -24,15 +24,15 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}> Alchemy Film and Moving Image Festival, Hawick </p>
             <p style={{margin:'0px', fontSize:'12px'}}>May 2 - 5, 2024</p>
             <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.emaf.de/en/timetable/#p43142" target="_blank" rel="noreferrer"><em>International Competition</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> EMAF, Osnabrück </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>April 25 - 28, 2024</p>
-            <p></p>
-
+    
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/follow-the-feeling" target="_blank" rel="noreferrer"><em>Follow the Feeling</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Times Museum, Guangzhou </p>
             <p style={{margin:'0px', fontSize:'12px'}}>Mar 22 – Jun 23, 2024</p>
+            <p></p>
+    
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.emaf.de/en/timetable/#p43142" target="_blank" rel="noreferrer"><em>International Competition</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}> EMAF, Osnabrück </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>April 25 - 28, 2024</p>
             <p></p>
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>Memory is an Editing Station</em></a></p>
