@@ -23,7 +23,7 @@ const Home = ({hideNav}) => {
 
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.artbasel.com/basel/basel/parcours-overview?lang=en" target="_blank" rel="noreferrer"><em>Parcours</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> Art Basel, Basel</p>
+            <p style={{margin:'0px', fontSize:'12px'}}> Art Basel, Basel (upcoming)</p>
             <p style={{margin:'0px', fontSize:'12px'}}>Jun 10 - 16, 2024</p>
             <p></p>
 
