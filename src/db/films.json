@@ -2,8 +2,8 @@
     {
         "id": "autocorrects",
         "title": "Autocorrects",
-        "mainimage": "./images/autocorrects_1.jpg",
-        "images": ["./images/autocorrects_1.jpg", "./images/autocorrects2.jpg", "./images/autocorrects3.jpg", "./images/autocorrects4.jpg", "./images/autocorrects5.jpg", "./images/autocorrects6.jpg", "./images/autocorrects7.png"],
+        "mainimage": "./images/autocorrects0.jpg",
+        "images": ["./images/autocorrects0.jpg", "./images/autocorrects_0.jpg", "./images/autocorrects3.jpg", "./images/autocorrects4.jpg", "./images/autocorrects5.jpg", "./images/autocorrects6.jpg", "./images/autocorrects7.png"],
         "specs": "2023, 03:03, three-channel video installation",
         "details":"16mm film transferred to HD",
         "summaryparagraphs": [
