@@ -27,38 +27,21 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Jun 10 - 16, 2024 (upcoming)</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://alchemyfilmandarts.org.uk/festival-2024-screenings-home-movies/" target="_blank" rel="noreferrer"><em>Home Movies</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> Alchemy Film and Moving Image Festival, Hawick </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>May 2 - 5, 2024</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://galeriecrevecoeur.com/exhibitions/it-was-a-hot-day-a-day-that-was-blue-all-through" target="_blank" rel="noreferrer"><em>it was a hot day, a day that was blue all through</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}> Rijksakademie, Amsterdam</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>May 30 - June 2, 2024 (upcoming)</p>
             <p></p>
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/follow-the-feeling" target="_blank" rel="noreferrer"><em>Follow the Feeling</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Times Museum, Guangzhou </p>
             <p style={{margin:'0px', fontSize:'12px'}}>Mar 22 – Jun 23, 2024</p>
             <p></p>
-    
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.emaf.de/en/timetable/#p43142" target="_blank" rel="noreferrer"><em>International Competition</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> EMAF, Osnabrück </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>April 25 - 28, 2024</p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://alchemyfilmandarts.org.uk/festival-2024-screenings-home-movies/" target="_blank" rel="noreferrer"><em>Home Movies</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}> Alchemy Film and Moving Image Festival, Hawick </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>May 2 - 5, 2024</p>
             <p></p>
     
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>Memory is an Editing Station</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>22nd videobrasil, São Paulo</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Oct 18, 2023 - April 28, 2024</p>
-            <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://ucca.org.cn/en/exhibition/dream-time/" target="_blank" rel="noreferrer"><em>Dream Time</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>UCCA Beijing</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Jan 27 - April 28, 2024</p>
-            <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://galeriecrevecoeur.com/exhibitions/it-was-a-hot-day-a-day-that-was-blue-all-through" target="_blank" rel="noreferrer"><em>it was a hot day, a day that was blue all through</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> Galerie Crèvecoeur, Paris</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Feb 9 - April 13, 2024</p>
-            <p></p>
-
-        
-
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.carpark.berlin/en" target="_blank" rel="noreferrer"><em>CARPARK</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Berlin, DE</p>
             <p style={{margin:'0px', fontSize:'12px'}}>January 20 – February 19, 2023</p>
