@@ -27,7 +27,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Jun 10 - 16, 2024 (upcoming)</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://galeriecrevecoeur.com/exhibitions/it-was-a-hot-day-a-day-that-was-blue-all-through" target="_blank" rel="noreferrer"><em>it was a hot day, a day that was blue all through</em></a></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.rijksakademie.nl/en/news/2024-03-20-open-studios-2024-may-30-june-2" target="_blank" rel="noreferrer"><em>Open Studios</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}> Rijksakademie, Amsterdam</p>
             <p style={{margin:'0px', fontSize:'12px'}}>May 30 - June 2, 2024 (upcoming)</p>
             <p></p>
