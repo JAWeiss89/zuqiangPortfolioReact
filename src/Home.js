@@ -37,9 +37,9 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Mar 22 – Jun 23, 2024</p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://alchemyfilmandarts.org.uk/festival-2024-screenings-home-movies/" target="_blank" rel="noreferrer"><em>Home Movies</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> Alchemy Film and Moving Image Festival, Hawick </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>May 2 - 5, 2024</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://drive.google.com/file/d/1rRlZX-D3snkqnb9pJuvFnjcHWbDZRY-A/view" target="_blank" rel="noreferrer"><em>Times Ex-tenses</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>ba̍k-nih-á film festival 2, Taipei </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>May 24 - 26, 2024</p>
             <p></p>
     
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.carpark.berlin/en" target="_blank" rel="noreferrer"><em>CARPARK</em></a></p>
