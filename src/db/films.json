@@ -17,7 +17,7 @@
     {
         "id": "dejavu",
         "title": "Déjà vu",
-        "mainimage": "./images/dejavu7.png",
+        "mainimage": "./images/dejavu1.png",
         "images": ["./images/dejavu1.jpg", "./images/dejavu2.jpg", "./images/dejavu3.jpg", "./images/dejavu4.jpg", "./images/dejavu6.jpg", "./images/dejavu7.png"],
         "specs": "2023, loop, mixed media installation",
         "details":"16mm film, sound, clay, iron oxide",
