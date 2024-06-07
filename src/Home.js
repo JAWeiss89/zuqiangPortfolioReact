@@ -29,7 +29,7 @@ const Home = ({hideNav}) => {
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.rijksakademie.nl/en/news/2024-03-20-open-studios-2024-may-30-june-2" target="_blank" rel="noreferrer"><em>Open Studios</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}> Rijksakademie, Amsterdam</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>May 30 - June 2, 2024 (upcoming)</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>May 30 - June 2, 2024 </p>
             <p></p>
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/follow-the-feeling" target="_blank" rel="noreferrer"><em>Follow the Feeling</em></a></p>
