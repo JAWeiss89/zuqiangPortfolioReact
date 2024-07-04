@@ -1,5 +1,5 @@
 [   {
-    "id": "keepintouch",
+    "id": "vestiges",
     "title": "keep in touch",
     "mainimage": "./images/keep6.jpg",
     "images": ["./images/keep6.jpg", "./images/keep7.jpg", "./images/keep8.jpg", "./images/keep9.jpg", "./images/keep10.jpg", "./images/keep4.jpg"],
@@ -12,7 +12,7 @@
     ]
 },
 {
-    "id": "inauguration",
+    "id": "sideways looking",
     "title":"Inauguration",
     "mainimage": "./images/inauguration1.png",
     "images": ["./images/inauguration1.png", "./images/inauguration2.jpg", "./images/inauguration3.jpg"],
@@ -27,7 +27,7 @@
     "videosrc":"https://player.vimeo.com/video/391327298"
 },
 {
-    "id": "nan",
+    "id": "Hesitations",
     "title":"难 / Nan",
     "mainimage":"./images/nan3.jpg",
     "images":["./images/nan3.jpg", "./images/nan2.jpg", "./images/nan1.jpg", "./images/nan4.jpg", "./images/nan5.jpg"],
