@@ -16,7 +16,7 @@ const Info = ({hideNav}) => {
             <p> Recent solo presentations include Fondazione Sandretto (2023), Kevin Space (2023), Cell Project Space (2022), E-Flux screening room (2022).
                 Group exhibitions and screenings include videobrasil, UCCA Beijing, Schirn Kunsthalle Frankfurt, Alchemy Film and Moving Image Festival.
                 He is a recipient of the Present Future prize at Artissima (2022), and the Dialog Award at EMAF (2023, 2024).
-                A resident artist at Rijksakademie van beeldende kunsten, he lives and works in Amsterdam.</p>
+                He lives and works in Amsterdam, and is currently a resident at Art Explora – Cité internationale des arts in Paris.</p>
         </section>
     )
 }
