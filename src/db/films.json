@@ -2,8 +2,8 @@
     {
         "id": "autocorrects",
         "title": "Autocorrects",
-        "mainimage": "./images/autocorrects8.jpg",
-        "images": ["./images/autocorrects8.jpg", "./images/autocorrects0.jpg", "./images/autocorrects_0.jpg","./images/autocorrects2.jpg", "./images/autocorrects4.jpg", "./images/autocorrects5.jpg", "./images/autocorrects6.jpg", "./images/autocorrects7.png"],
+        "mainimage": "./images/autocorrects9.jpg",
+        "images": ["./images/autocorrects10.jpg", "./images/autocorrects9.jpg","./images/autocorrects0.jpg", "./images/autocorrects2.jpg", "./images/autocorrects4.jpg", "./images/autocorrects5.jpg", "./images/autocorrects7.png"],
         "specs": "2023, 03:03, three-channel video installation",
         "details":"16mm film transferred to HD",
         "summaryparagraphs": [
@@ -17,8 +17,8 @@
     {
         "id": "dejavu",
         "title": "Déjà vu",
-        "mainimage": "./images/dejavu1.jpg",
-        "images": ["./images/dejavu1.jpg", "./images/dejavu2.jpg", "./images/dejavu3.jpg", "./images/dejavu4.jpg", "./images/dejavu6.jpg", "./images/dejavu7.png"],
+        "mainimage": "./images/dejavu10.jpg",
+        "images": ["./images/dejavu10.jpg","./images/dejavu1.jpg", "./images/dejavu2.jpg", "./images/dejavu3.jpg", "./images/dejavu4.jpg", "./images/dejavu6.jpg", "./images/dejavu7.png"],
         "specs": "2023-24, loop, mixed media installation",
         "details":"16mm film, sound, clay, iron oxide",
         "summaryparagraphs": [
