@@ -101,7 +101,7 @@
     {
         "id": "sightleak",
         "title": "Sight Leak",
-        "mainimage": "./images/sight1.png",
+        "mainimage": "./images/sight_install_view.jpeg",
         "images":["./images/sight1.png","./images/sight2.jpg", "./images/sight_install_view.jpeg", "./images/sight3.png", "./images/sight4.png"],
         "specs": "2022 / 12:15, single channel, bw 16mm and Super 8mm film transferred to HD video",
         "summaryparagraphs": [
