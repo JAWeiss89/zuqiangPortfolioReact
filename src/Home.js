@@ -7,7 +7,7 @@ const Home = ({hideNav}) => {
         <section onClick={hideNav} id="content" className="landing">
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
             
-            <p><b>News :</b></p>
+            <p><b>Exhibitions :</b></p>
 
     
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>‘Memory is an Editing Station’, 22nd videobrasil</em></a></p>
@@ -37,6 +37,9 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Mar 22 – Jun 23, 2024</p>
             <p></p>
 
+
+    <p><b>Screenings :</b></p>
+    
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://drive.google.com/file/d/1rRlZX-D3snkqnb9pJuvFnjcHWbDZRY-A/view" target="_blank" rel="noreferrer"><em>Times Ex-tenses</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>ba̍k-nih-á film festival 2, Taipei </p>
             <p style={{margin:'0px', fontSize:'12px'}}>May 24 - 26, 2024</p>
