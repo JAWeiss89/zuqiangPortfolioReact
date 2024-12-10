@@ -42,7 +42,7 @@ const Home = ({hideNav}) => {
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.e-flux.com/film/series/639200/queer-strategies-and-tentacles/" target="_blank" rel="noreferrer"><em> Queer Strategies and Tentacles </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>e-flux screening room, online </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Nov 11, 2024 – Mar 2, 2025 </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Dec 9 - 22, 2024 </p>
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.schermodellarte.org/en/visio-2024/" target="_blank" rel="noreferrer"><em> VISIO 13th EDITION
