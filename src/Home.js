@@ -45,7 +45,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Dec 9 - 22, 2024 </p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'12px'}}>Screening </p>
+            <p style={{margin:'0px', fontSize:'14px'}}>Screening </p>
             <p style={{margin:'0px', fontSize:'12px'}}>Custom Guitars, Berlin </p>
             <p style={{margin:'0px', fontSize:'12px'}}>Dec 14, 2024</p>
             <p></p>
