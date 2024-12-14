@@ -21,7 +21,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p> */}
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://emalin.co.uk/exhibitions?q=gallery" target="_blank" rel="noreferrer"><em>CONDO London</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Emalin/Antenna Space, London </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Emalin / Antenna Space, London </p>
             <p style={{margin:'0px', fontSize:'12px'}}>Jan 18 – Feb 15, 2025</p>
             <p></p>
     
