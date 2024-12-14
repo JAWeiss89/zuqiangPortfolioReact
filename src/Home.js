@@ -35,7 +35,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>May 30 - June 2, 2024 </p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/follow-the-feeling" target="_blank" rel="noreferrer"><em>Follow the Feelings</em></a></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/follow-the-feeling" target="_blank" rel="noreferrer"><em>Follow the Feeling</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Times Museum, Guangzhou </p>
             <p style={{margin:'0px', fontSize:'12px'}}>Mar 23 – June 23, 2025</p>
             <p></p>
