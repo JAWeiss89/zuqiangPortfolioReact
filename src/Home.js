@@ -24,21 +24,6 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Emalin / Antenna Space, London </p>
             <p style={{margin:'0px', fontSize:'12px'}}>Jan 18 – Feb 15, 2025</p>
             <p></p>
-    
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.artbasel.com/basel/basel/parcours-overview?lang=en" target="_blank" rel="noreferrer"><em>Parcours</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> Art Basel, Basel</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Jun 10 - 16, 2024 </p>
-            <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.rijksakademie.nl/en/news/2024-03-20-open-studios-2024-may-30-june-2" target="_blank" rel="noreferrer"><em>Open Studios</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}> Rijksakademie, Amsterdam</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>May 30 - June 2, 2024 </p>
-            <p></p>
-
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://timesmuseum.org/en/program/follow-the-feeling" target="_blank" rel="noreferrer"><em>Follow the Feeling</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Times Museum, Guangzhou </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Mar 23 – June 23, 2024</p>
-            <p></p>
 
 
     <p><b>Screenings :</b></p>
