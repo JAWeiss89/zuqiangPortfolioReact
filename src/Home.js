@@ -28,9 +28,9 @@ const Home = ({hideNav}) => {
 
     <p><b>Screenings :</b></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.e-flux.com/film/series/639200/queer-strategies-and-tentacles/" target="_blank" rel="noreferrer"><em> Queer Strategies and Tentacles </em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>e-flux screening room, online </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Dec 9 - 22, 2024 </p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://wattis.org/calendar/wednesday-september-24-2025" target="_blank" rel="noreferrer"><em> Film screening </em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>The Wattis Institute, San Francisco </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>September 24, 2025 </p>
             <p></p>
 
 
