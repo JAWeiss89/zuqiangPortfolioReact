@@ -28,6 +28,11 @@ const Home = ({hideNav}) => {
 
     <p><b>Screenings :</b></p>
 
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.lafilmforum.org/schedule/spring-summer-2025/developing-china-films-from-the-beijing-international-short-film-festival-program-1/" target="_blank" rel="noreferrer"><em> Developing China </em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>LA Film Forum, Los Angeles </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>July 20, 2025 </p>
+            <p></p>
+
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://wattis.org/calendar/wednesday-september-24-2025" target="_blank" rel="noreferrer"><em> Film screening </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>The Wattis Institute, San Francisco </p>
             <p style={{margin:'0px', fontSize:'12px'}}>September 24, 2025 </p>
