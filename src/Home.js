@@ -33,7 +33,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>July 20, 2025 </p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://wattis.org/calendar/wednesday-september-24-2025" target="_blank" rel="noreferrer"><em> Film screening </em></a></p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://wattis.org/calendar/wednesday-september-24-2025" target="_blank" rel="noreferrer"><em> Film screening: Mary Helena Clark, Peng Zuqiang, and Ana Vaz </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>The Wattis Institute, San Francisco </p>
             <p style={{margin:'0px', fontSize:'12px'}}>September 24, 2025 </p>
             <p></p>
