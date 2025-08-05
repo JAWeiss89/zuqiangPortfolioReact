@@ -36,8 +36,11 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London. 2022 </p>
             <p></p>
 
-            <p>Peng Zuqiang : <em>Hesitations,</em> ANTENNA-TENNA, Shanghai. 2021</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/antenna-tenna/pengzuqianghaiweimingmingdepianke/" target="_blank" rel="noreferrer"><em>Hesitations</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>ANTENNA-TENNA, Shanghai. 2021 </p>
             <p></p>
+
+   
 
 
     <p><b>Screenings and Group Exhibitions :</b></p>
