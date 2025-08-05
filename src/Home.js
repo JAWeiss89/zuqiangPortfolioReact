@@ -33,13 +33,12 @@ const Home = ({hideNav}) => {
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London. April 13, 2022 - June 19, 2022 </p>
-            <p style={{margin:'0px', fontSize:'12px'}}>April 13, 2022 - June 19, 2022</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London. 2022 </p>
             <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
             <p></p>
 
-            <p>Peng Zuqiang : <em>Hesitations,</em> ANTENNA-TENNA, Shanghai. <br/>July 31 - September 5, 2021</p>
-            <img className="landing-img" src="./images/poster.jpg" alt="exhibition poster"/> */}
+            <p>Peng Zuqiang : <em>Hesitations,</em> ANTENNA-TENNA, Shanghai. 2021</p>
+            <img className="landing-img" src="./images/poster.jpg" alt="exhibition poster"/> 
          <p></p>
 
 
