@@ -7,7 +7,7 @@ const Home = ({hideNav}) => {
         <section onClick={hideNav} id="content" className="landing">
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
             
-            <p><b>Solo and Two-person Exhibitions :</b></p>
+            <p><b>Selected Exhibitions :</b></p>
 
     
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>‘Memory is an Editing Station’, 22nd videobrasil</em></a></p>
@@ -20,33 +20,33 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Automata, Los Angeles, US </p>
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p> */}
-            <p style={{margin:'0px', fontSize:'12px'}}>2025 </p>
+    
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.emalin.co.uk/exhibitions/condo-london-2025" target="_blank" rel="noreferrer"><em>Evidence</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Emalin / Antenna Space, London </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Emalin / Antenna Space, London, 2025 </p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'12px'}}>2023 </p>
+           
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://fsrr.org/mostre-category/peng-zuqiang-vestiges/" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin, 2023 </p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna, 2023</p>
             <p></p>
     
             <p style={{margin:'0px', fontSize:'12px'}}>2022 </p>
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London, 2022 </p>
             <p></p>
      
             <p style={{margin:'0px', fontSize:'12px'}}>2021 </p>
             <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/antenna-tenna/pengzuqianghaiweimingmingdepianke/" target="_blank" rel="noreferrer"><em>Hesitations</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>ANTENNA-TENNA, Shanghai</p>
+            <p style={{margin:'0px', fontSize:'12px'}}>ANTENNA-TENNA, Shanghai, 2021</p>
             <p></p>
 
    
 
 
-    <p><b>Screenings and Group Exhibitions :</b></p>
+    <p><b>Screenings:</b></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.lafilmforum.org/schedule/spring-summer-2025/developing-china-films-from-the-beijing-international-short-film-festival-program-1/" target="_blank" rel="noreferrer"><em> Developing China </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>LA Film Forum, Los Angeles. July 20, 2025 </p>
