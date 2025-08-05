@@ -7,7 +7,7 @@ const Home = ({hideNav}) => {
         <section onClick={hideNav} id="content" className="landing">
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
             
-            <p><b>Exhibitions :</b></p>
+            <p><b>Solo and Two-person Exhibitions :</b></p>
 
     
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>‘Memory is an Editing Station’, 22nd videobrasil</em></a></p>
@@ -24,14 +24,26 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Emalin / Antenna Space, London. Jan 18 – Feb 15, 2025 </p>
             <p></p>
 
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://fsrr.org/mostre-category/peng-zuqiang-vestiges/" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin.  2023 </p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna.  2023 </p>
+            <p></p>
+
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London. April 13, 2022 - June 19, 2022 </p>
             <p style={{margin:'0px', fontSize:'12px'}}>April 13, 2022 - June 19, 2022</p>
             <img className="landing-img" src="./images/sideways_looking.jpg" alt="exhibition poster"/>
             <p></p>
 
+            <p>Peng Zuqiang : <em>Hesitations,</em> ANTENNA-TENNA, Shanghai. <br/>July 31 - September 5, 2021</p>
+            <img className="landing-img" src="./images/poster.jpg" alt="exhibition poster"/> */}
+         <p></p>
 
-    <p><b>Screenings :</b></p>
+
+    <p><b>Screenings and Group Exhibitions :</b></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.lafilmforum.org/schedule/spring-summer-2025/developing-china-films-from-the-beijing-international-short-film-festival-program-1/" target="_blank" rel="noreferrer"><em> Developing China </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>LA Film Forum, Los Angeles. July 20, 2025 </p>
