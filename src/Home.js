@@ -28,17 +28,18 @@ const Home = ({hideNav}) => {
            
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://fsrr.org/mostre-category/peng-zuqiang-vestiges/" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin, 2023 </p>
-
+            <p></p>
+    
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna, 2023</p>
             <p></p>
     
-            <p style={{margin:'0px', fontSize:'12px'}}>2022 </p>
+   
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Cell Project Space, London, 2022 </p>
             <p></p>
      
-            <p style={{margin:'0px', fontSize:'12px'}}>2021 </p>
+      
             <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/antenna-tenna/pengzuqianghaiweimingmingdepianke/" target="_blank" rel="noreferrer"><em>Hesitations</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>ANTENNA-TENNA, Shanghai, 2021</p>
             <p></p>
