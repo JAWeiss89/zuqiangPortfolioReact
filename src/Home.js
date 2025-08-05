@@ -20,16 +20,17 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Automata, Los Angeles, US </p>
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p> */}
+            <p style={{margin:'0px', fontSize:'12px'}}>2025 </p>
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://emalin.co.uk/exhibitions?q=gallery" target="_blank" rel="noreferrer"><em>CONDO London</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Emalin / Antenna Space, London. Jan 18 – Feb 15, 2025 </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Emalin / Antenna Space, London </p>
             <p></p>
 
+            <p style={{margin:'0px', fontSize:'12px'}}>2023 </p>
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://fsrr.org/mostre-category/peng-zuqiang-vestiges/" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin.  2023 </p>
-            <p></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Fondazione Sandretto Re Rebaudengo, Turin </p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.kevinspace.org/program/peng-zuqiang-vestiges" target="_blank" rel="noreferrer"><em>Vestiges</em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna.  2023 </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Kevin Space, Vienna</p>
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.cellprojects.org/exhibitions/peng-zuqiang" target="_blank" rel="noreferrer"><em>Sideways Looking</em></a></p>
