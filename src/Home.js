@@ -47,7 +47,7 @@ const Home = ({hideNav}) => {
    
 
 
-    <p><b>Screenings:</b></p>
+    <p><b>Recent Screenings and Shows:</b></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.lafilmforum.org/schedule/spring-summer-2025/developing-china-films-from-the-beijing-international-short-film-festival-program-1/" target="_blank" rel="noreferrer"><em> Developing China </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>LA Film Forum, Los Angeles. July 20, 2025 </p>
