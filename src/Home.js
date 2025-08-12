@@ -7,7 +7,7 @@ const Home = ({hideNav}) => {
         <section onClick={hideNav} id="content" className="landing">
             <h1 id="title" className="hidden">Peng Zuqiang</h1>
             
-            <p><b>Selected Exhibitions :</b></p>
+            <p><b>Exhibition Projects :</b></p>
 
     
             {/* <p style={{margin:'0px', fontSize:'14px'}}><a href="https://site.videobrasil.org.br/en/bienal/22" target="_blank" rel="noreferrer"><em>‘Memory is an Editing Station’, 22nd videobrasil</em></a></p>
