@@ -44,7 +44,7 @@ const Home = ({hideNav}) => {
             <p></p>
      
       
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/antenna-tenna/pengzuqianghaiweimingmingdepianke/" target="_blank" rel="noreferrer"><em>Hesitations</em></a> style={{margin:'0px', fontSize:'12px'}}>ANTENNA-TENNA, Shanghai, 2021</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="http://antenna-space.com/en/antenna-tenna/pengzuqianghaiweimingmingdepianke/" target="_blank" rel="noreferrer"><em>Hesitations</em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>ANTENNA-TENNA, Shanghai, 2021</p>
             <p></p>
 
