@@ -51,8 +51,12 @@ const Home = ({hideNav}) => {
 
     <p><b>Recent Screenings and Shows:</b></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.lafilmforum.org/schedule/spring-summer-2025/developing-china-films-from-the-beijing-international-short-film-festival-program-1/" target="_blank" rel="noreferrer"><em> Developing China </em></a></p>
-            <p style={{margin:'0px', fontSize:'12px'}}>LA Film Forum, Los Angeles. July 20, 2025 </p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.taikwun.hk/en/programme/detail/stay-connected-navigating-the-cloud/1637" target="_blank" rel="noreferrer"><em> Safe House </em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Tai Kwun Contemporary, Hong Kong. Oct 3-4, 2025 </p>
+            <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.siskelfilmcenter.org/frederic-moffet" target="_blank" rel="noreferrer"><em> You're too lovely to last </em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Gene Siskle Film Center, Chicago. September 11, 2025 </p>
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://wattis.org/calendar/wednesday-september-24-2025" target="_blank" rel="noreferrer"><em> Film screening: Mary Helena Clark, Peng Zuqiang, and Ana Vaz </em></a></p>
