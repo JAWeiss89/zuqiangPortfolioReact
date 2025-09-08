@@ -15,9 +15,8 @@ const Home = ({ hideNav }) => {
         >
           <em>Afternoon Hearsay</em>
         </a>{" "}
-         {" "}
         <span style={{ fontSize: '12px' }}>
-          The Common Guild, Glasgow, 11 October – 7 December 2025
+          , The Common Guild, Glasgow, 11 October – 7 December 2025
         </span>
       </p>
 
@@ -29,9 +28,8 @@ const Home = ({ hideNav }) => {
         >
           <em>Evidence</em>
         </a>{" "}
-         {" "}
         <span style={{ fontSize: '12px' }}>
-          Emalin / Antenna Space, London, 2025
+          , Emalin / Antenna Space, London, 2025
         </span>
       </p>
 
@@ -43,9 +41,8 @@ const Home = ({ hideNav }) => {
         >
           <em>Vestiges</em>
         </a>{" "}
-         {" "}
         <span style={{ fontSize: '12px' }}>
-          Fondazione Sandretto Re Rebaudengo, Turin, 2023
+          , Fondazione Sandretto Re Rebaudengo, Turin, 2023
         </span>
       </p>
 
@@ -57,9 +54,8 @@ const Home = ({ hideNav }) => {
         >
           <em>Vestiges</em>
         </a>{" "}
-         {" "}
         <span style={{ fontSize: '12px' }}>
-          Kevin Space, Vienna, 2023
+          , Kevin Space, Vienna, 2023
         </span>
       </p>
 
@@ -71,9 +67,8 @@ const Home = ({ hideNav }) => {
         >
           <em>Sideways Looking</em>
         </a>{" "}
-        {" "}
         <span style={{ fontSize: '12px' }}>
-          Cell Project Space, London, 2022
+          , Cell Project Space, London, 2022
         </span>
       </p>
 
@@ -85,11 +80,11 @@ const Home = ({ hideNav }) => {
         >
           <em>Hesitations</em>
         </a>{" "}
-         {" "}
         <span style={{ fontSize: '12px' }}>
-          ANTENNA-TENNA, Shanghai, 2021
+          , ANTENNA-TENNA, Shanghai, 2021
         </span>
       </p>
+
 
           <p><b>Recent Screenings and Shows:</b></p>
 
