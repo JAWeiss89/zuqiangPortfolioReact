@@ -20,15 +20,20 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Automata, Los Angeles, US </p>
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p> */
-       <p style="margin:0; font-size:14px; display:inline;">
-  <a href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay" 
-     target="_blank" rel="noreferrer">
+      <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+  <a
+    href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay"
+    target="_blank"
+    rel="noreferrer"
+  >
     <em>Afternoon Hearsay</em>
-  </a> — 
-  <span style="font-size:12px;">
+  </a>{" "}
+  —{" "}
+  <span style={{ fontSize: '12px' }}>
     The Common Guild, Glasgow, 11 October – 7 December 2025
   </span>
 </p>
+
 
 
     
