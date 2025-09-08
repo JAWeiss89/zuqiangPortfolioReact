@@ -16,7 +16,7 @@ const Home = ({ hideNav }) => {
           <em>Afternoon Hearsay</em>
         </a>{" "}
         <span style={{ fontSize: '12px' }}>
-          , The Common Guild, Glasgow, 11 October – 7 December 2025
+          , The Common Guild, Glasgow, Oct 11 – Dec 7 2025
         </span>
       </p>
 
