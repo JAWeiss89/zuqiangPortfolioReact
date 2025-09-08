@@ -15,7 +15,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Afternoon Hearsay</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           The Common Guild, Glasgow, 11 October – 7 December 2025
         </span>
@@ -29,7 +29,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Evidence</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           Emalin / Antenna Space, London, 2025
         </span>
@@ -43,7 +43,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Vestiges</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           Fondazione Sandretto Re Rebaudengo, Turin, 2023
         </span>
@@ -57,7 +57,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Vestiges</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           Kevin Space, Vienna, 2023
         </span>
@@ -71,7 +71,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Sideways Looking</em>
         </a>{" "}
-        —{" "}
+       ,{" "}
         <span style={{ fontSize: '12px' }}>
           Cell Project Space, London, 2022
         </span>
@@ -85,7 +85,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Hesitations</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           ANTENNA-TENNA, Shanghai, 2021
         </span>
@@ -101,7 +101,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Safe House</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           Tai Kwun Contemporary, Hong Kong, 3–4 October 2025
         </span>
@@ -115,7 +115,7 @@ const Home = ({ hideNav }) => {
         >
           <em>You're too lovely to last</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           Gene Siskel Film Center, Chicago, 11 September 2025
         </span>
@@ -129,7 +129,7 @@ const Home = ({ hideNav }) => {
         >
           <em>Film screening: Mary Helena Clark, Peng Zuqiang, and Ana Vaz</em>
         </a>{" "}
-        —{" "}
+        ,{" "}
         <span style={{ fontSize: '12px' }}>
           The Wattis Institute, San Francisco, 24 September 2025
         </span>
