@@ -20,7 +20,7 @@ const Home = ({hideNav}) => {
             <p style={{margin:'0px', fontSize:'12px'}}>Automata, Los Angeles, US </p>
             <p style={{margin:'0px', fontSize:'12px'}}>March 26,2023</p>
             <p></p> */
-            <p style="margin:0; font-size:14px;">
+       <p style="margin:0; font-size:14px; display:inline;">
   <a href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay" 
      target="_blank" rel="noreferrer">
     <em>Afternoon Hearsay</em>
@@ -29,6 +29,7 @@ const Home = ({hideNav}) => {
     The Common Guild, Glasgow, 11 October – 7 December 2025
   </span>
 </p>
+
 
     
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.emalin.co.uk/exhibitions/condo-london-2025" target="_blank" rel="noreferrer"><em>Evidence</em></a></p>
