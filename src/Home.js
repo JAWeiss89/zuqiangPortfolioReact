@@ -7,19 +7,10 @@ const Home = ({ hideNav }) => {
 
       <p><b>Exhibition Projects :</b></p>
 
-      <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
-        <a
-          href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <em>Afternoon Hearsay</em>
-        </a>{" "}
-        <span style={{ fontSize: '12px' }}>
-          , The Common Guild, Glasgow, Oct 11 – Dec 7,2025
-        </span>
-      </p>
-
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay" target="_blank" rel="noreferrer"><em> Afternoon Hearsay </em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>The Common Guild, Glasgow, Oct 11 – Dec 7,2025 </p>
+            <p></p>
+  
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.emalin.co.uk/exhibitions/condo-london-2025"
@@ -86,7 +77,7 @@ const Home = ({ hideNav }) => {
       </p>
 
 
-          <p><b>Recent Screenings and Shows:</b></p>
+          <p><b>Recents:</b></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.taikwun.hk/en/programme/detail/stay-connected-navigating-the-cloud/1637" target="_blank" rel="noreferrer"><em> Safe House </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Tai Kwun Contemporary, Hong Kong. Oct 3-4, 2025 </p>
