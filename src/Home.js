@@ -10,6 +10,10 @@ const Home = ({ hideNav }) => {
             <p style={{margin:'0px', fontSize:'14px'}}><a href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay" target="_blank" rel="noreferrer"><em> Afternoon Hearsay </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>The Common Guild, Glasgow, Oct 11 – Dec 7,2025 </p>
             <p></p>
+
+            <p style={{margin:'0px', fontSize:'14px'}}><a><em> Short-term Histories </em></a></p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26,2026 </p>
+            <p></p>
   
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
