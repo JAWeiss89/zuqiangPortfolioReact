@@ -1,4 +1,19 @@
 [  
+     {
+        "id": "AfternoonHearsay",
+        "title": "Afternoon Hearsay",
+        "mainimage": "./images/autocorrects9.jpg",
+        "images": ["./images/autocorrects9.jpg", "./images/autocorrects10.jpg","./images/autocorrects0.jpg", "./images/autocorrects2.jpg", "./images/autocorrects4.jpg", "./images/autocorrects5.jpg", "./images/autocorrects7.png"],
+        "specs": "2025, 18:50, three-channel video installation, 5.1 surround sound",
+        "details":"super 8, 16mm and 35mm transferred into digital",
+        "summaryparagraphs": [
+            "8.75mm film - a celluloid format unique to China and never circulated elsewhere, was a film format where no camera was made for. This print film stock was primarily used for mobile projection units to exhibit films in countryside, mountains, islands and ethnic minority regions in China from the 60s to 80s.",
+            "'What is a film without a camera?’, a question that emerged from the research, was explored through cameraless filmmaking techniques such as photograming 8.75 archival prints onto 16mm and 35mm color negative print stock. Through DIY printing and photochemical processing, images of film strips burn, blur, and tear within the chromatic space. The fleeting frames of archival films overlap with the super 8 camera footage shot by the artist, weaving together fragmented stories of an audience, a film factory and a camera inventor, where facts are inaccessible, and memories are evanescent.",
+            "Here, the images and sounds of resistance are folded into the tales of the cinematic invention.  Reimagining a format that once resisted circulation, as a medium through which other forms of resilience emerge — where affects and hearsay holds a space against political amnesia and the erasures of images.",
+            "Co-commissioned by The Common Guild, Rockbund Museum, Centro Pecci and Lo schermo dell'arte"
+        ],
+       
+    }, 
     {
         "id": "autocorrects",
         "title": "Autocorrects",
