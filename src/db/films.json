@@ -1,10 +1,10 @@
 [  
      {
-        "id": "AfternoonHearsay",
+        "id": "afternoonHearsay",
         "title": "Afternoon Hearsay",
-        "mainimage": "./images/autocorrects9.jpg",
-        "images": ["./images/autocorrects9.jpg", "./images/autocorrects10.jpg","./images/autocorrects0.jpg", "./images/autocorrects2.jpg", "./images/autocorrects4.jpg", "./images/autocorrects5.jpg", "./images/autocorrects7.png"],
-        "specs": "2025, 18:50, three-channel video installation, 5.1 surround sound",
+        "mainimage": "./images/Hearsay5.jpg",
+        "images": ["./images/Hearsay5.jpg", "./images/Hearsay1.jpg","./images/Hearsay2.jpg", "./images/Hearsay4.jpg"],
+        "specs": "2025, 18:50, three-channel video installation, 5.1 surround sound, in cinemascope",
         "details":"super 8, 16mm and 35mm transferred into digital",
         "summaryparagraphs": [
             "8.75mm film - a celluloid format unique to China and never circulated elsewhere, was a film format where no camera was made for. This print film stock was primarily used for mobile projection units to exhibit films in countryside, mountains, islands and ethnic minority regions in China from the 60s to 80s.",
