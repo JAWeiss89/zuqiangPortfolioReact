@@ -12,7 +12,7 @@ const Home = ({ hideNav }) => {
             <p></p>
 
             <p style={{margin:'0px', fontSize:'14px'}}>Short-term Histories</p>
-            <p style={{margin:'0px', fontSize:'12px'}}>Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26,2026 </p>
+            <p style={{margin:'0px', fontSize:'12px'}}>Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26, 2026 </p>
             <p></p>
   
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
