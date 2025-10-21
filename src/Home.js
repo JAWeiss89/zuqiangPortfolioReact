@@ -11,7 +11,7 @@ const Home = ({ hideNav }) => {
             <p style={{margin:'0px', fontSize:'12px'}}>The Common Guild, Glasgow, Oct 11 – Dec 7,2025 </p>
             <p></p>
 
-            <p style={{margin:'0px', fontSize:'14px'}}>Short-term Histories</p>
+            <p style={{margin:'0px', fontSize:'14px'}}><a href="https://www.rockbundartmuseum.org/exhibition/peng-zuqiang-short-term-histories" target="_blank" rel="noreferrer"><em> Short-term Histories </em></a></p>
             <p style={{margin:'0px', fontSize:'12px'}}>Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26, 2026 </p>
             <p></p>
   
