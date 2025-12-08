@@ -19,7 +19,7 @@ const Home = ({ hideNav }) => {
       <p style={{ margin: '0px', fontSize: '12px' }}>
         The Common Guild, Glasgow, Oct 11 – Dec 7, 2025
       </p>
-
+      <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
           href="https://www.rockbundartmuseum.org/exhibition/peng-zuqiang-short-term-histories"
