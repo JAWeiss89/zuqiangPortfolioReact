@@ -42,7 +42,7 @@ const Home = ({ hideNav }) => {
           <em>Evidence</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-          , Emalin / Antenna Space, London, 2025
+            Emalin / Antenna Space, London, 2025
         </span>
       </p>
 
