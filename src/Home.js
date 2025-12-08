@@ -17,7 +17,7 @@ const Home = ({ hideNav }) => {
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        , The Common Guild, Glasgow, Oct 11 – Dec 7, 2025
+         The Common Guild, Glasgow, Oct 11 – Dec 7, 2025
       </p>
       <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
@@ -30,7 +30,7 @@ const Home = ({ hideNav }) => {
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        , Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26, 2026
+        Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26, 2026
       </p>
 <br />
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
