@@ -102,28 +102,28 @@ const Home = ({ hideNav }) => {
 
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://www.taikwun.hk/en/programme/detail/stay-connected-navigating-the-cloud/1637"
+          href="https://carpenter.center/programs/an-evening-with-tulapop-andrew"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Safe House</em>
+          <em>Herein, Out of Range</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Tai Kwun Contemporary, Hong Kong. Oct 3-4, 2025
+        Carpenter Center for the Visual Arts, Harvard. Nov 20, 2025
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://www.siskelfilmcenter.org/frederic-moffet"
+          href="https://beautravail.se/entry/mesopic-strophes/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>You're too lovely to last</em>
+          <em>Mesopic strophes</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Gene Siskel Film Center, Chicago. September 11, 2025
+        Beau Travail, Nov 22 - Dec 20, 2025
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
