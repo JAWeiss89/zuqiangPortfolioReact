@@ -7,10 +7,11 @@
       "./images/Afternoon1.jpeg",
       "./images/Afternoon2.jpeg",
       "./images/Afternoon3.jpeg",
+      "./images/Afternoon7.jpeg",
       "./images/Afternoon4.jpeg",
       "./images/Afternoon5.jpeg",
       "./images/Afternoon6.jpeg",
-      "./images/Hearsay17.jpeg"
+      "./images/Hearsay14.jpeg"
     ],
     "specs": "2025, 18:50, three-channel video installation, 5.1 surround sound",
     "details": "super 8, 16mm and 35mm transferred into digital",
@@ -25,8 +26,9 @@
   {
     "id": "autocorrects",
     "title": "Autocorrects",
-    "mainimage": "./images/autocorrects9.jpg",
+    "mainimage": "./images/auto1.jpeg",
     "images": [
+      "./images/auto1.jpeg",
       "./images/autocorrects9.jpg",
       "./images/autocorrects10.jpg",
       "./images/autocorrects0.jpg",
@@ -56,6 +58,7 @@
       "./images/dejavu13.jpg",
       "./images/dejavu12.jpg",
       "./images/dejavu10.jpg"
+      "./images/dejavu10.jpeg"
     ],
     "specs": "2023-24, loop, mixed media installation",
     "details": "16mm film, sound, clay, iron oxide",
