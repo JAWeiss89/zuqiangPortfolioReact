@@ -132,7 +132,7 @@ const Home = ({ hideNav }) => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Film screening: Mary Helena Clark, Peng Zuqiang</em>
+          <em>Film screening: Mary Helena Clark, Peng Zuqiang and Ana Vaz</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
