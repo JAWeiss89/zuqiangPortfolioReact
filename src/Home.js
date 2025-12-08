@@ -32,7 +32,7 @@ const Home = ({ hideNav }) => {
       <p style={{ margin: '0px', fontSize: '12px' }}>
         Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26, 2026
       </p>
-
+<br />
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.emalin.co.uk/exhibitions/condo-london-2025"
@@ -58,7 +58,7 @@ const Home = ({ hideNav }) => {
           , Fondazione Sandretto Re Rebaudengo, Turin, 2023
         </span>
       </p>
-
+<br />
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.kevinspace.org/program/peng-zuqiang-vestiges"
@@ -71,7 +71,7 @@ const Home = ({ hideNav }) => {
           , Kevin Space, Vienna, 2023
         </span>
       </p>
-
+<br />
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.cellprojects.org/exhibitions/peng-zuqiang"
@@ -84,7 +84,7 @@ const Home = ({ hideNav }) => {
           , Cell Project Space, London, 2022
         </span>
       </p>
-
+<br />
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="http://antenna-space.com/en/antenna-tenna/pengzuqianghaiweimingmingdepianke/"
@@ -112,7 +112,7 @@ const Home = ({ hideNav }) => {
       <p style={{ margin: '0px', fontSize: '12px' }}>
         Tai Kwun Contemporary, Hong Kong. Oct 3-4, 2025
       </p>
-
+<br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
           href="https://www.siskelfilmcenter.org/frederic-moffet"
@@ -125,7 +125,7 @@ const Home = ({ hideNav }) => {
       <p style={{ margin: '0px', fontSize: '12px' }}>
         Gene Siskel Film Center, Chicago. September 11, 2025
       </p>
-
+<br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
           href="https://wattis.org/calendar/wednesday-september-24-2025"
