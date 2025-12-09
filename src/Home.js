@@ -58,7 +58,7 @@ const Home = ({ hideNav }) => {
              , Fondazione Sandretto Re Rebaudengo, Turin, 2023
         </span>
       </p>
-<br />
+
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.kevinspace.org/program/peng-zuqiang-vestiges"
@@ -71,7 +71,7 @@ const Home = ({ hideNav }) => {
              , Kevin Space, Vienna, 2023
         </span>
       </p>
-<br />
+
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.cellprojects.org/exhibitions/peng-zuqiang"
@@ -84,7 +84,7 @@ const Home = ({ hideNav }) => {
              , Cell Project Space, London, 2022
         </span>
       </p>
-<br />
+
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="http://antenna-space.com/en/antenna-tenna/pengzuqianghaiweimingmingdepianke/"
