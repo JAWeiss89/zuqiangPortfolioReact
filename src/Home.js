@@ -120,24 +120,24 @@ const Home = ({ hideNav }) => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Herein, Out of Range</em>
+          <em>Breaking the Frame</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Carpenter Center for the Visual Arts, Harvard. Nov 20, 2025
+        IFFR, Rotterdam. Jan 30 & Feb 1, 2026
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://beautravail.se/entry/mesopic-strophes/"
+          href="https://www.centropecci.it/en/whats-on/events/night-w-zuqiang-peng-alanas-gurinas-igor-x-moreno-maria-bertel/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Mesopic strophes</em>
+          <em>Pecci Night</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Beau Travail, Nov 22 - Dec 20, 2025
+        Centro Pecci, Jan 16, 2026
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
