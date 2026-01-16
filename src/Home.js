@@ -7,19 +7,7 @@ const Home = ({ hideNav }) => {
 
       <p><b>Exhibition Projects :</b></p>
 
-      <p style={{ margin: '0px', fontSize: '14px' }}>
-        <a
-          href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <em>Afternoon Hearsay</em>
-        </a>
-      </p>
-      <p style={{ margin: '0px', fontSize: '12px' }}>
-         The Common Guild, Glasgow, Oct 11 – Dec 7, 2025
-      </p>
-      <br />
+    
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
           href="https://www.rockbundartmuseum.org/exhibition/peng-zuqiang-short-term-histories"
@@ -33,6 +21,32 @@ const Home = ({ hideNav }) => {
         Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26, 2026
       </p>
 <br />
+          <p style={{ margin: '0px', fontSize: '14px' }}>
+        <a
+          href="https://www.concordia.nl/en/agenda/chronical"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Chronical</em>
+        </a>
+      </p>
+      <p style={{ margin: '0px', fontSize: '12px' }}>
+         Concordia, Enschede, Jan 24 – May 3, 2026
+      </p>
+      <br />
+           <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Afternoon Hearsay</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , The Common Guild, Glasgow, 2025
+        </span>
+      </p>
+            
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.emalin.co.uk/exhibitions/condo-london-2025"
