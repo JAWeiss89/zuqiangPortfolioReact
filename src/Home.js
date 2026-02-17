@@ -129,19 +129,6 @@ const Home = ({ hideNav }) => {
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://www.centropecci.it/en/whats-on/events/night-w-zuqiang-peng-alanas-gurinas-igor-x-moreno-maria-bertel/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <em>Pecci Night</em>
-        </a>
-      </p>
-      <p style={{ margin: '0px', fontSize: '12px' }}>
-        Centro Pecci, Jan 16, 2026
-      </p>
-<br />
-      <p style={{ margin: '0px', fontSize: '14px' }}>
-        <a
           href="https://wattis.org/calendar/wednesday-september-24-2025"
           target="_blank"
           rel="noopener noreferrer"
