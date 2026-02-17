@@ -116,7 +116,7 @@ const Home = ({ hideNav }) => {
 
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://carpenter.center/programs/an-evening-with-tulapop-andrew"
+          href="https://iffr.com/en/iffr/2026/films/afternoon-hearsay"
           target="_blank"
           rel="noopener noreferrer"
         >
