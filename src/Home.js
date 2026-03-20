@@ -129,15 +129,15 @@ const Home = ({ hideNav }) => {
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://wattis.org/calendar/wednesday-september-24-2025"
+          href="http://antenna-space.com/en/hk-horizons-south/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Film screening: Mary Helena Clark, Peng Zuqiang and Ana Vaz</em>
+          <em>Horizons : South</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        The Wattis Institute, San Francisco. September 24, 2025
+        Antenna Space, Hong Kong. Mar 21 - May 10, 2026
       </p>
     </section>
   );
