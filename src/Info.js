@@ -65,7 +65,30 @@ const Info = ({hideNav}) => {
              , Peng Zuqiang “Afternoon Hearsay” The Common Guild / Glasgow, by Bianca Stoppani, 2025
         </span>
       </p>
-
+                 <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://www.emergentmag.com/articles/afternoon-hearsay?fbclid=PAZXh0bgNhZW0CMTEAAaeODYv1gho48Jhf2YwecsrpLBPWtXnppWIkhlzwCv1y4vHlOT5kemy1euxE0A_aem_ZYWu5N5xARbIwblc1rTk0A"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Emergent Magazine</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , ‘Afternoon Hearsay : Peng Zuqiang at The Common Guild’, by Toby Üpson, 2025
+        </span>
+      </p>
+ <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://artreview.com/peng-zuqiang-is-more-than-just-words/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Art Review Asia</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , ‘What Cannot be Said’, feature by Lai Fei, 2025
+        </span>
+      </p>
 
  
         </section>
