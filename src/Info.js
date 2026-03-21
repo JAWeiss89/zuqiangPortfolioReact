@@ -59,7 +59,7 @@ const Info = ({hideNav}) => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Commentaries</em>
+          <em>Flash Art</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
              , Peng Zuqiang “Afternoon Hearsay” The Common Guild / Glasgow, by Bianca Stoppani, 2025
