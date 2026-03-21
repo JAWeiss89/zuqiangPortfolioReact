@@ -41,6 +41,19 @@ const Info = ({hideNav}) => {
              , ‘Peng Zuqiang - Afternoon Hearsay’, by Tendai Mutambu, 2026
         </span>
       </p>
+               <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://static1.squarespace.com/static/60c07faed502261d79b77ba9/t/698b43249fadc6239744516f/1770734372363/Tendai+Mutambu+Peng+Zuqiang%2C+Review+‘Afternoon+Hearsay’%2C+ArtReview%2C+January+–+February+2026.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Commentaries</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , Peng Zuqiang ‘Afternoon Hearsay’, by May Adadol Ingawanij, 2025
+        </span>
+      </p>
+
 
  
         </section>
