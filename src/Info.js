@@ -15,7 +15,7 @@ const Info = ({hideNav}) => {
             {/* <p>Zuqiang’s works have been shown at exhibitions and festivals internationally including UCCA Beijing, Time Art Center Berlin, IDFA,  Open City Documentary Festival, and Antimatter. He has received fellowships and residencies from the MacDowell, Skowhegan, the Core Program and the Lighthouse Works. He received the ‘Jury Special Prize’ from the 8th Huayu Youth Award, and a ‘Special Mention’ from Festival Film Dokumenter, Yogyakarta for his first feature film, Nan (2020)</p> */}
             <p> Recent solo presentations include Concordia (2026), Rockbund Art Museum (2025), The Common Guild (2025), Fondazione Sandretto (2023), Kevin Space (2023), Cell Project Space (2022), E-Flux screening room (2022). Group exhibitions and screenings include IFFR, videobrasil, UCCA Beijing, Schirn Kunsthalle Frankfurt, Times Museum, Eye Film Museum, IDFA, 25FPS, Alchemy Film and Moving Image Festival. </p>
             <p> He is a recipient of the Present Future prize at Artissima (2022), and the Dialog Award at EMAF (2023, 2024). He completed residencies and fellowship from Rijksakademie, LUMA Foundation, Art Explora, Skowhegan, and the Core Program. </p>
-
+<br />
      <p><b>Texts:</b></p>
                   <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
@@ -27,6 +27,18 @@ const Info = ({hideNav}) => {
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
              , Peng Zuqiang, “Short-Term Histories” at Rockbund Art Museum, Shanghai, by Stephanie Bailey, 2026
+        </span>
+      </p>
+               <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://static1.squarespace.com/static/60c07faed502261d79b77ba9/t/698b43249fadc6239744516f/1770734372363/Tendai+Mutambu+Peng+Zuqiang%2C+Review+‘Afternoon+Hearsay’%2C+ArtReview%2C+January+–+February+2026.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Art Review</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , ‘Peng Zuqiang - Afternoon Hearsay’, by Tendai Mutambu, 2026
         </span>
       </p>
 
