@@ -89,6 +89,42 @@ const Info = ({hideNav}) => {
              , ‘What Cannot be Said’, feature by Lai Fei, 2025
         </span>
       </p>
+               <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://flash---art.com/2025/11/peng-zuqiang-short-term-histories-rockbund-museum-of-art-shanghai/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Flash Art</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , Peng Zuqiang “Short-term Histories” Rockbund Museum of Art / Shanghai, by Gea Politi, 2025
+        </span>
+      </p>
+               <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://www.artforum.com.cn/picks/15893"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Artforum艺术论坛</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , Review of Afternoon Hearsay : Peng Zuqiang’, by PYJ, 2025
+        </span>
+      </p>
+               <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://flash---art.com/article/the-other-sees-in-my-eyes-peng-zuqiang/https://flash---art.com/article/the-other-sees-in-my-eyes-peng-zuqiang/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Flash Art</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , ‘The Others see in my Eyes’, by Ela Bittencourt, 2025
+        </span>
+      </p>
 
  
         </section>
