@@ -17,7 +17,7 @@ const Info = ({hideNav}) => {
             <p> He is a recipient of the Present Future prize at Artissima (2022), and the Dialog Award at EMAF (2023, 2024). He completed residencies and fellowship from Rijksakademie, LUMA Foundation, Art Explora, Skowhegan, and the Core Program. </p>
 <br />
      <p><b>Texts:</b></p>
-                  <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+                  <p style={{ fontSize: '12px'  }}>
         <a
           href="https://www.moussemagazine.it/magazine/peng-zuqiang-stephanie-bailey-rockbund-art-museum-shanghai-2026/"
           target="_blank"
@@ -25,11 +25,11 @@ const Info = ({hideNav}) => {
         >
           <em>Mousse</em>
         </a>{' '}
-        <span style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <span style={{ fontSize: '12px'  }}>
              , Peng Zuqiang, “Short-Term Histories” at Rockbund Art Museum, Shanghai, by Stephanie Bailey, 2026
         </span>
       </p>
-               <p style={{ fontSize: '12px' }}>
+               <p style={{fontSize: '12px'  }}>
         <a
           href="https://static1.squarespace.com/static/60c07faed502261d79b77ba9/t/698b43249fadc6239744516f/1770734372363/Tendai+Mutambu+Peng+Zuqiang%2C+Review+‘Afternoon+Hearsay’%2C+ArtReview%2C+January+–+February+2026.pdf"
           target="_blank"
