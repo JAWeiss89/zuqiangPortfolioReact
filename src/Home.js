@@ -139,6 +139,20 @@ const Home = ({ hideNav }) => {
       <p style={{ margin: '0px', fontSize: '12px' }}>
         Antenna Space, Hong Kong. Mar 21 - May 10, 2026
       </p>
+
+          <br />
+      <p style={{ margin: '0px', fontSize: '14px' }}>
+        <a
+          href="https://movingimage.org/event/little-stabs-avant-garde-shorts/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>First Look: Little Stabs (Avant-Garde Shorts)</em>
+        </a>
+      </p>
+      <p style={{ margin: '0px', fontSize: '12px' }}>
+        Museum of Moving Image, New York. April 25, 2026
+      </p>
     </section>
   );
 };
