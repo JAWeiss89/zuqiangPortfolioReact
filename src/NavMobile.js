@@ -11,7 +11,7 @@ const NavMobile = ({navHidden, toggleNav}) => {
             <button onClick={toggleNav} id="nav-button-mobile"><i className="fas fa-film"></i></button>
             <div onClick={toggleNav} id="films-mobile" className={navHidden ? "hidden" : undefined}>
                 <Link to="/afternoonhearsay"><p>Afternoon Hearsay</p></Link>
-                <Link to="/autocorrects"><p>Untitled(Second Press)</p></Link>
+                <Link to="/untitled"><p>Untitled(Second Press)</p></Link>
                 <Link to="/autocorrects"><p>Autocorrects</p></Link>
                 <Link to="/dejavu"><p>Déjà vu</p></Link>
                 <Link to="/hindsights"><p>Hindsights</p></Link>
