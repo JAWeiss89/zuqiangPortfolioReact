@@ -6,7 +6,7 @@ const Nav = ({hideNav}) => {
     return (
         <header>
             <div onClick={hideNav} className="navbar">
-                < Link to="/">
+                <Link to="/">
                     <div id="my-name">
                     <h1>Peng Zuqiang</h1>
                     <h1 id="chinese">彭祖强</h1>
