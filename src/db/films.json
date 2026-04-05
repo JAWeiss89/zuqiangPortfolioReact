@@ -24,6 +24,21 @@
     "videosrc": "https://player.vimeo.com/video/1123897373"
   },
   {
+    "id": "untitled",
+    "title": "untitled(Second Press)",
+    "mainimage": "./images/untitled1.jpeg",
+    "images": [
+      "./images/untitled2.jpeg",
+      "./images/untitled3.jpeg",
+      "./images/untitled4.jpeg",
+    ],
+    "specs": "2025, C-Print from 16mm film negative",
+    "details": "36.9 × 28.9cm",
+    "summaryparagraphs": [
+      "During a 16 mm film-projection performance, a frame from a film loop was accidentally overheated by the projector light bulb. Brought under a photographic enlarger, the fragile film frame was further crackled by the device’s glass plate. Translating these chance and errors onto paper, the print preserves the delicate material traces deviations.",
+    ],
+  },
+  {
     "id": "autocorrects",
     "title": "Autocorrects",
     "mainimage": "./images/auto1.jpeg",
