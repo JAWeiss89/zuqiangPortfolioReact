@@ -108,7 +108,7 @@ const Home = ({ hideNav }) => {
           <em>Hesitations</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , ANTENNA-TENNA, Shanghai, 2021
+             , Antenna-Tenna, Shanghai, 2021
         </span>
       </p>
 
@@ -116,15 +116,15 @@ const Home = ({ hideNav }) => {
 
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://iffr.com/en/iffr/2026/films/afternoon-hearsay"
+          href="https://www.emaf.de/en/timetable/#p73857"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Breaking the Frame</em>
+          <em>Under Structural Doubt</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        IFFR, Rotterdam. Jan 30 & Feb 1, 2026
+        EMAF, Osnabruck. April 25, 2026
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
