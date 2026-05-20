@@ -31,8 +31,6 @@ const Home = ({ hideNav }) => {
              , Rockbund Art Museum, Shanghai, 2025
         </span>
       </p>
-      
-<br />
              <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.concordia.nl/en/agenda/chronical"
@@ -45,8 +43,6 @@ const Home = ({ hideNav }) => {
              , Concordia, Enschede, 2026
         </span>
       </p>
-        
-      <br />
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.emalin.co.uk/exhibitions/condo-london-2025"
