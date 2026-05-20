@@ -7,34 +7,7 @@ const Home = ({ hideNav }) => {
 
       <p><b>Exhibition Projects :</b></p>
 
-    
-      <p style={{ margin: '0px', fontSize: '14px' }}>
-        <a
-          href="https://www.rockbundartmuseum.org/exhibition/peng-zuqiang-short-term-histories"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <em>Short-term Histories</em>
-        </a>
-      </p>
-      <p style={{ margin: '0px', fontSize: '12px' }}>
-        Rockbund Art Museum, Shanghai, Nov 6, 2025 – Apr 26, 2026
-      </p>
-<br />
-          <p style={{ margin: '0px', fontSize: '14px' }}>
-        <a
-          href="https://www.concordia.nl/en/agenda/chronical"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <em>Chronical</em>
-        </a>
-      </p>
-      <p style={{ margin: '0px', fontSize: '12px' }}>
-         Concordia, Enschede, Jan 24 – May 3, 2026
-      </p>
-      <br />
-           <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+     <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://thecommonguild.org.uk/programme/peng-zuqiang-afternoon-hearsay"
           target="_blank"
@@ -46,7 +19,34 @@ const Home = ({ hideNav }) => {
              , The Common Guild, Glasgow, 2025
         </span>
       </p>
-            
+             <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://www.rockbundartmuseum.org/exhibition/peng-zuqiang-short-term-historiesy"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Short-term Histories</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , Rockbund Art Museum, Shanghai, 2025
+        </span>
+      </p>
+      
+<br />
+             <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://www.concordia.nl/en/agenda/chronical"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Chronical</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px' }}>
+             , Concordia, Enschede, 2026
+        </span>
+      </p>
+        
+      <br />
       <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.emalin.co.uk/exhibitions/condo-london-2025"
