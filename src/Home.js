@@ -112,15 +112,15 @@ const Home = ({ hideNav }) => {
 
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://www.emaf.de/en/timetable/#p73857"
+          href="https://www.instagram.com/ekraniiartit/?hl=en"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Under Structural Doubt</em>
+          <em>Shorts Program</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        EMAF, Osnabruck. April 25, 2026
+        Ekrani i Artit, Shkodër. May 27 - 31, 2026
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
