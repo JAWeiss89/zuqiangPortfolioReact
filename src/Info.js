@@ -18,7 +18,19 @@ const Info = ({hideNav}) => {
             
 <br />
      <p><b>Texts:</b></p>
-                  <p style={{margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+                 <p style={{margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
+        <a
+          href="https://drive.google.com/file/d/1swpSF6HxL0_KfrYfS0n6gPOT3_1VINTm/view?usp=share_link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <em>Spike Art #87</em>
+        </a>{' '}
+        <span style={{ fontSize: '12px'  }}>
+             , 'Film on film’ review of Short-term Histories by Peng Zuqiang at Rockbund Art Museum, by Adohan Madden, 2026
+        </span>
+      </p>
+              <p style={{margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://www.moussemagazine.it/magazine/peng-zuqiang-stephanie-bailey-rockbund-art-museum-shanghai-2026/"
           target="_blank"
