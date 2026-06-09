@@ -51,7 +51,7 @@ const Info = ({hideNav}) => {
           <em>Art Review</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , ‘Peng Zuqiang - Afternoon Hearsay’, by Tendai Mutambu, 2026
+             : ‘Peng Zuqiang - Afternoon Hearsay’, by Tendai Mutambu, 2026
         </span>
       </p>
                <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -63,7 +63,7 @@ const Info = ({hideNav}) => {
           <em>Commentaries</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , Peng Zuqiang ‘Afternoon Hearsay’, by May Adadol Ingawanij, 2025
+             : Peng Zuqiang ‘Afternoon Hearsay’, by May Adadol Ingawanij, 2025
         </span>
       </p>
                  <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -75,7 +75,7 @@ const Info = ({hideNav}) => {
           <em>Flash Art</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , Peng Zuqiang “Afternoon Hearsay” The Common Guild / Glasgow, by Bianca Stoppani, 2025
+             : Peng Zuqiang “Afternoon Hearsay” The Common Guild / Glasgow, by Bianca Stoppani, 2025
         </span>
       </p>
                  <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -87,7 +87,7 @@ const Info = ({hideNav}) => {
           <em>Emergent Magazine</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , ‘Afternoon Hearsay : Peng Zuqiang at The Common Guild’, by Toby Üpson, 2025
+             : ‘Afternoon Hearsay : Peng Zuqiang at The Common Guild’, by Toby Üpson, 2025
         </span>
       </p>
  <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -99,7 +99,7 @@ const Info = ({hideNav}) => {
           <em>Art Review Asia</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , ‘What Cannot be Said’, feature by Lai Fei, 2025
+             : ‘What Cannot be Said’, feature by Lai Fei, 2025
         </span>
       </p>
                <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -111,7 +111,7 @@ const Info = ({hideNav}) => {
           <em>Flash Art</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , Peng Zuqiang “Short-term Histories” Rockbund Museum of Art / Shanghai, by Gea Politi, 2025
+             : Peng Zuqiang “Short-term Histories” Rockbund Museum of Art / Shanghai, by Gea Politi, 2025
         </span>
       </p>
                <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -123,7 +123,7 @@ const Info = ({hideNav}) => {
           <em>Artforum艺术论坛</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , Review of Afternoon Hearsay : Peng Zuqiang’, by PYJ, 2025
+             : Review of Afternoon Hearsay : Peng Zuqiang’, by PYJ, 2025
         </span>
       </p>
                <p style={{ margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -135,7 +135,7 @@ const Info = ({hideNav}) => {
           <em>Flash Art</em>
         </a>{' '}
         <span style={{ fontSize: '12px' }}>
-             , ‘The Others see in my Eyes’, by Ela Bittencourt, 2025
+             : ‘The Others see in my Eyes’, by Ela Bittencourt, 2025
         </span>
       </p>
 
