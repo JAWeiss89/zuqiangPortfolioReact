@@ -17,7 +17,7 @@ const Info = ({hideNav}) => {
             <p> Recent solo presentations include Concordia (2026), Rockbund Art Museum (2025), The Common Guild (2025), Fondazione Sandretto (2023), Kevin Space (2023), Cell Project Space (2022), E-Flux screening room (2022). Group exhibitions and screenings include IFFR, videobrasil, UCCA Beijing, Schirn Kunsthalle Frankfurt, Times Museum, Eye Film Museum, IDFA, 25FPS, Alchemy Film and Moving Image Festival. He is a recipient of the Present Future prize at Artissima (2022), and the Dialog Award at EMAF (2023, 2024). He completed residencies and fellowship from Rijksakademie, LUMA Foundation, Art Explora, Skowhegan, and the Core Program. He lives and works in Paris.</p>
             
 <br />
-     <p><b>Texts:</b></p>
+     <p><b>Selected Texts:</b></p>
                  <p style={{margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
         <a
           href="https://drive.google.com/file/d/1swpSF6HxL0_KfrYfS0n6gPOT3_1VINTm/view?usp=share_link"
