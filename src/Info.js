@@ -27,7 +27,7 @@ const Info = ({hideNav}) => {
           <em>Spike Art #87</em>
         </a>{' '}
         <span style={{ fontSize: '12px'  }}>
-             , 'Film on film’ review of Short-term Histories by Peng Zuqiang at Rockbund Art Museum, by Adohan Madden, 2026
+              'Film on film’ review of Short-term Histories by Peng Zuqiang at Rockbund Art Museum, by Adohan Madden, 2026
         </span>
       </p>
               <p style={{margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
@@ -39,7 +39,7 @@ const Info = ({hideNav}) => {
           <em>Mousse</em>
         </a>{' '}
         <span style={{ fontSize: '12px'  }}>
-             , Peng Zuqiang, “Short-Term Histories” at Rockbund Art Museum, Shanghai, by Stephanie Bailey, 2026
+              Peng Zuqiang, “Short-Term Histories” at Rockbund Art Museum, Shanghai, by Stephanie Bailey, 2026
         </span>
       </p>
                <p style={{margin: 0, fontSize: '14px', whiteSpace: 'nowrap' }}>
