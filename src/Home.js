@@ -147,7 +147,7 @@ const Home = ({ hideNav }) => {
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Arkipel, Jarkata. 2026
+        Arkipel, Jakarta. 2026
       </p>
     </section>
   );
