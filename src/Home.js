@@ -129,7 +129,7 @@ const Home = ({ hideNav }) => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>International Competition</em>
+          <em>Ex-Now International Competition</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
