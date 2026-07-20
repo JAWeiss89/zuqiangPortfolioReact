@@ -112,42 +112,42 @@ const Home = ({ hideNav }) => {
 
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://www.instagram.com/ekraniiartit/?hl=en"
+          href="https://www.ydp.co/events/unlicensed-cinema"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Shorts Program</em>
+          <em>Unlicensed Cinema</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Ekrani i Artit, Shkodër. May 27 - 31, 2026
+        SINE SCREEN, ydp London. July 14 - 18, 2026
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="http://antenna-space.com/en/hk-horizons-south/"
+          href="https://ex-is.org/information/2026/6/19/exnow2026/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Horizons : South</em>
+          <em>International Competition</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Antenna Space, Hong Kong. Mar 21 - May 10, 2026
+        Ex-IS, Soeul. July 23 - 30, 2026
       </p>
 
           <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://movingimage.org/event/little-stabs-avant-garde-shorts/"
+          href="https://arkipel.id/2026/07/16/official-selection-international-competition-arkipel-2026-the-damned-of-the-earth/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>First Look: Little Stabs (Avant-Garde Shorts)</em>
+          <em>International Competition</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Museum of Moving Image, New York. April 25, 2026
+        Arkipel, Jarkata. 2026
       </p>
     </section>
   );
