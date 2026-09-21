@@ -6,7 +6,7 @@ const Info = ({hideNav}) => {
             <h1 id="title" className="hidden">info</h1>
             {/* <img className="main-img" src="./images/info.jpg" alt="info"/> */}
             <p>pengzuqiangstudio (at) gmail.com | <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1lmyM9UjpoS4ztlFPKtjNQ9ciHQHyG9pX--Q7KzkBAc0/edit?usp=sharing"><span>cv</span></a></p>
-            <p><a href="http://antenna-space.com/en/artists/pengzuqiang/">Antenna Space</a> | <a href="https://vdb.org/artists/peng-zuqiang">VDB</a></p>
+            <p><a href="http://antenna-space.com/en/artists/pengzuqiang/">Antenna Space</a></p>
 
             <p>-</p>
             <p>Peng Zuqiang works with film, video, analog printing and installations. He is interested in the stories of media and mediums—from obsolete film formats to downtempo in Mandopop—attending to their affective resonances and dissenting associations.
