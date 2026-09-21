@@ -112,42 +112,42 @@ const Home = ({ hideNav }) => {
 
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://www.ydp.co/events/unlicensed-cinema"
+          href="https://spareroomparis.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Unlicensed Cinema</em>
+          <em>Alexandre Khondji, Peng Zuqiang</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        SINE SCREEN, ydp London. July 14 - 18, 2026
+       Spare Room, Paris. Oct 8 - Nov 26, 2026
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://ex-is.org/information/2026/6/19/exnow2026/"
+          href="https://www.asymmetryart.org/public-programme/a-cut-became-an-opening"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>Ex-Now International Competition</em>
+          <em>a cut became an opening</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Ex-IS, Soeul. July 23 - 30, 2026
+        Asymmetry, London. Oct 13 - Dec 11, 2026
       </p>
 
           <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
         <a
-          href="https://arkipel.id/2026/07/16/official-selection-international-competition-arkipel-2026-the-damned-of-the-earth/"
+          href="https://combatbreathing.net/read-my-desire"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <em>The Damned of the Earth</em>
+          <em>Read My Desire, (part II)</em>
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-        Arkipel, Jakarta. 2026
+        Combat Breathing * Anthology Film Archives, New York. Oct 8, 2026
       </p>
     </section>
   );
