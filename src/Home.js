@@ -120,7 +120,7 @@ const Home = ({ hideNav }) => {
         </a>
       </p>
       <p style={{ margin: '0px', fontSize: '12px' }}>
-       Spare Room, Paris. Oct 8 - Nov 26, 2026
+       Spare Room, Paris. Oct 8 - Nov 28, 2026
       </p>
 <br />
       <p style={{ margin: '0px', fontSize: '14px' }}>
